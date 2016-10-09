@@ -23,3 +23,10 @@ How might we use open data to discover red flags that identify labour trafficker
 With special thanks to:
 Yamuna KRISHNAMURTHY & Aecio SANTOS from NYU for their mentorship.   
 
+# Datasets and Sources
+* [Wage and Hour Compliance Action Data](http://ogesdw.dol.gov/views/data_catalogs.php)
+* [Legally Operating Businesses | NYC Open Data](https://nycopendata.socrata.com/Business/Legally-Operating-Businesses/w7w3-xahh)
+* [Inspections | NYC Open Data](https://nycopendata.socrata.com/Business/Inspections/jzhd-m6uv)
+* [Consumer Services Mediated Complaints | NYC Open Data](https://nycopendata.socrata.com/Business/Consumer-Services-Mediated-Complaints/nre2-6m2s)
+* https://traffickingresourcecenter.org/state/new-york
+
