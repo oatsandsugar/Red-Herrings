@@ -1,0 +1,77 @@
+body {
+	font-size: 24px;
+}
+
+
+.find {
+	display: inline-block;
+}
+
+.findBar {
+	border-radius: 3%;
+    border-style: solid;
+    padding: 3px;
+    border-color: gray;
+}
+
+.goButton {
+	padding: 3px;
+    background: white;
+    border-style: double;
+    border-color: black;
+    margin-left: 3px;
+}
+
+.high {
+	display: inline-block;
+}
+
+.lastprice {
+	display: inline-block;
+}
+
+.low {
+	display: inline-block;
+}
+
+/*.myStocks {
+	margin: 1px;
+    font-size: 22px;
+    color: rgba(0,0,0,0.8);
+}*/
+
+.results {
+	font-size: 16px;
+    color: rgba(0,0,0,0.7);
+    border-style: dashed;
+    border-width: 1px 0;
+    padding: 6px;
+    border-color: rgba(0,0,0,0.15);
+}
+
+.symbol {
+	display: inline-block;
+}
+
+.tickr {
+	font-size: 43px;
+    margin: 12px;
+    color: rgb(239, 47, 47);
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    font-size: 18px;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
