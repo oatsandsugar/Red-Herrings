@@ -1,5 +1,5 @@
 # Red-Herrings
-Git repository for &lt;/humantrafficking> hackathon
+Git repository for [&lt;/humantrafficking> hackathon](https://ehthackathon.splashthat.com/)
 
 # Challenge question
 
