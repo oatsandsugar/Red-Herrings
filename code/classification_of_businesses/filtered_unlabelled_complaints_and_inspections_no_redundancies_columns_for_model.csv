@@ -1,0 +1,1537 @@
+Industry,Complaint Type,Complaint Result,Satisfaction,Business Zip,Inspection Result,class_label
+Garage - 049,Exchange Goods/Contract Cancelled - E01,Resolved and Consumer Satisfied - SPF,Yes,11237,No Violation Issued,1
+Electronic Store - 001,Surcharge/Overcharge - S02,Consumer Took Action - CTA,No,10003,Out of Business,1
+Hardware-Retail - 811,Exchange Goods/Contract Cancelled - E01,Store Credit - SCR,Yes,11435,No Violation Issued,1
+Garage - 049,Surcharge/Overcharge - S02,Resolved and Consumer Satisfied - SPF,Yes,10019,No Violation Issued,1
+Garage - 049,Surcharge/Overcharge - S02,Resolved and Consumer Satisfied - SPF,Yes,10016,No Violation Issued,1
+Secondhand Dealer Auto - 005,Surcharge/Overcharge - S02,Cash Amount - AMT,Yes,10305,No Violation Issued,1
+Tow Truck Company - 124,Misrepresentation - M01,Consumer Took Action - CTA,No,11360,No Violation Issued,1
+Secondhand Dealer Auto - 005,Misrepresentation - M01,Cash Amount - AMT,Yes,10305,No Violation Issued,1
+Laundry Jobber - 066,,Cash Amount - AMT,Yes,10027,No Violation Issued,1
+Secondhand Dealer Auto - 005,Outstanding Judgment - J01,Agency Collected Judgement - ACJ,Yes,11236,No Evidence of Activity,1
+Garage - 049,Surcharge/Overcharge - S02,Advised to Sue - ATS,No,10171,No Violation Issued,1
+Garage - 049,Damaged Goods - D01,Advised to Sue - ATS,No,10031,Unable to Locate,1
+Electronic Store - 001,Exchange Goods/Contract Cancelled - E01,Resolved and Consumer Satisfied - SPF,Yes,10302,Violation Issued,1
+Electronic Store - 001,Advertising/Misleading - A02,Unable to Locate Business - ULV,NA,10001,No Violation Issued,1
+Garage - 049,Damaged Goods - D01,Cash Amount - AMT,Yes,10452,No Violation Issued,1
+Dry Cleaners - 230,Damaged Goods - D01,Cash Amount - AMT,Yes,11354,No Violation Issued,1
+Electronic Store - 001,Defective Goods - D02,Resolved and Consumer Satisfied - SPF,Yes,10455,No Violation Issued,1
+Electronic Store - 001,Exchange Goods/Contract Cancelled - E01,Cash Amount - AMT,Yes,10472,Violation Issued,1
+Misc Non-Food Retail - 817,Damaged Goods - D01,Goods Exchanged - GEX,Yes,11419,No Violation Issued,1
+Garage - 049,Surcharge/Overcharge - S02,Cash Amount - AMT,Yes,10016,Violation Issued,1
+Electronic Store - 001,Misrepresentation - M01,Credit Card Refund and/or Contract Cancelled - CRC,Yes,10019,No Violation Issued,1
+Misc Non-Food Retail - 817,Non-Delivery of Goods - N01,Cash Amount - AMT,Yes,10016,Out of Business,1
+Garage - 049,,Advised to Sue - ATS,No,10019,No Violation Issued,1
+Garage - 049,Non-Delivery Goods/Services,Cash Amount - AMT,Yes,10033,Violation Issued,1
+Secondhand Dealer Auto - 005,Non-Delivery of Goods - N01,Advised to Sue - ATS,No,11207,Violation Issued,1
+Garage - 049,Damaged Goods - D01,No Consumer Response - NCR,NA,10128,Violation Issued,1
+Secondhand Dealer Auto - 005,Damaged Goods - D01,Complaint Invalid - CIN,NA,10035,No Violation Issued,1
+Garage - 049,Damaged Goods - D01,Consumer Took Action - CTA,No,10128,Out of Business,1
+Garage - 049,Surcharge/Overcharge - S02,Resolved and Consumer Satisfied - SPF,Yes,10019,Violation Issued,1
+Garage - 049,Misrepresentation - M01,Cash Amount - AMT,Yes,10016,Out of Business,1
+Garage - 049,Exchange Goods/Contract Cancelled - E01,Resolved and Consumer Satisfied - SPF,Yes,10034,Violation Issued,1
+Garage - 049,Surcharge/Overcharge - S02,Bill Reduced - BLR,Yes,10016,Violation Issued,1
+Parking Lot - 050,Advertising/Misleading - A02,Complaint Invalid - CIN,NA,10010,No Violation Issued,1
+Electronic Store - 001,Defective Goods - D02,Credit Card Refund and/or Contract Cancelled - CRC,Yes,10466,No Violation Issued,1
+Health Spa - 839,Breach of Contract - B03,Advised to Sue - ATS,No,11214,No Violation Issued,1
+Pawnbroker - 080,Misrepresentation - M01,Resolved and Consumer Satisfied - SPF,Yes,10031,Violation Issued,1
+Pawnbroker - 080,,Advised to Sue - ATS,No,11374,Out of Business,1
+Electronic Store - 001,Breach of Contract - B03,Cash Amount - AMT,Yes,10455,Out of Business,1
+Electronic Store - 001,Damaged Goods - D01,Unable to Locate Business - ULV,NA,,Violation Issued,1
+Garage - 049,Damaged Goods - D01,Referred to Hearing - RTH,No,10128,No Violation Issued,1
+Garage - 049,Surcharge/Overcharge - S02,Complaint Invalid - CIN,NA,10001,No Violation Issued,1
+Electronic Store - 001,Misrepresentation - M01,Resolved and Consumer Satisfied - SPF,Yes,10451,No Violation Issued,1
+Parking Lot - 050,Damaged Goods - D01,Advised to Sue - ATS,No,10036,No Violation Issued,1
+Electronic Store - 001,Surcharge/Overcharge - S02,Resolved and Consumer Satisfied - SPF,Yes,10123,No Violation Issued,1
+Garage & Parking Lot - 098,,Goods Repaired - GRS,Yes,10128,Out of Business,1
+Electronic Store - 001,Misrepresentation - M01,Consumer Took Action - CTA,No,10018,No Violation Issued,1
+Dry Cleaners - 230,Non-Delivery of Goods - N01,Unable to Locate Business - ULV,NA,11101,No Violation Issued,1
+Garage - 049,Damaged Goods - D01,Resolved and Consumer Satisfied - SPF,Yes,10016,No Violation Issued,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Advised to Sue - ATS,No,11580,Violation Issued,1
+Furniture Sales - 242,Non-Delivery of Goods - N01,Unable to Locate Business - ULV,NA,11236,Out of Business,1
+Garage - 049,Damaged Goods - D01,Consumer Withdrew Complaint - CWC,NA,10003,No Violation Issued,1
+Garage - 049,Exchange Goods/Contract Cancelled - E01,Cash Amount - AMT,Yes,10011,No Violation Issued,1
+Jewelry Store-Retail - 823,Damaged Goods - D01,No Satisfactory Agreement - NSA,No,11209,No Violation Issued,1
+Electronic Store - 001,Non-Delivery of Goods - N01,Cash Amount - AMT,Yes,10468,ECB Warning Issued,1
+Secondhand Dealer Auto - 005,Non-Delivery of Goods - N01,Advised to Sue - ATS,No,10031,No Violation Issued,1
+Laundry - 064,Damaged Goods - D01,No Consumer Response - NCR,NA,11216,Pass,1
+Electronic Store - 001,Exchange Goods/Contract Cancelled - E01,Consumer Withdrew Complaint - CWC,NA,11372,Out of Business,1
+Garage - 049,Damaged Goods - D01,Cash Amount - AMT,Yes,10019,Violation Issued,1
+Garage - 049,Surcharge/Overcharge - S02,Cash Amount - AMT,Yes,10019,Violation Issued,1
+Garage - 049,Surcharge/Overcharge - S02,Resolved and Consumer Satisfied - SPF,Yes,11040,No Violation Issued,1
+Garage - 049,Surcharge/Overcharge - S02,Resolved and Consumer Satisfied - SPF,Yes,10025,Violation Issued,1
+Electronic Store - 001,Exchange Goods/Contract Cancelled - E01,Credit Card Refund and/or Contract Cancelled - CRC,Yes,10455,Out of Business,1
+Garage - 049,Non-Delivery Goods/Services,Credit Card Refund and/or Contract Cancelled - CRC,Yes,10002,Violation Issued,1
+Dry Cleaners - 230,Misrepresentation - M01,Advised to Sue - ATS,No,11375,Pass,1
+Tow Truck Company - 124,Surcharge/Overcharge - S02,Referred to Outside - RTO,NA,10304,Pass,1
+Garage - 049,Damage / Estimate,Cash Amount - AMT,Yes,10011,No Violation Issued,1
+Dry Cleaners - 230,Damaged Goods - D01,Cash Amount - AMT,Yes,11228,No Violation Issued,1
+Tow Truck Company - 124,Misrepresentation - M01,Consumer Took Action - CTA,No,10455,Pass,1
+Garage - 049,Surcharge/Overcharge - S02,Cash Amount - AMT,Yes,10016,Violation Issued,1
+Electronic Store - 001,Advertising/Misleading - A02,Unable to Locate Business - ULV,NA,11372,No Evidence of Activity,1
+Dry Cleaners - 230,Lost Property - L02,Cash Amount - AMT,Yes,10016,No Violation Issued,1
+Misc Non-Food Retail - 817,Refund Policy - R01,No Satisfactory Agreement - NSA,No,11235,No Violation Issued,1
+Electronic Store - 001,Defective Goods - D02,Consumer Took Action - CTA,No,10022,No Violation Issued,1
+Dry Cleaners - 230,Damaged Goods - D01,Goods Received - GDR,Yes,10128,No Violation Issued,1
+Dry Cleaners - 230,Damaged Goods - D01,No Satisfactory Agreement - NSA,No,10128,Pass,1
+Electronic Store - 001,Damaged Goods - D01,No Satisfactory Agreement - NSA,No,10036,No Violation Issued,1
+Garage - 049,Damaged Goods - D01,No Consumer Response - NCR,NA,10128,Violation Issued,1
+Laundry - 064,Damaged Goods - D01,Cash Amount - AMT,Yes,11368,Pass,1
+Electronic Store - 001,Surcharge/Overcharge - S02,Cash Amount - AMT,Yes,11220,No Violation Issued,1
+Electronic & Home Appliance Service Dealer - 115,Refund Policy - R01,Goods Repaired - GRS,Yes,11204,Unable to Locate,1
+Electronic Store - 001,Advertising/Misleading - A02,Cash Amount - AMT,Yes,11220,No Violation Issued,1
+Electronic Store - 001,Breach of Contract - B03,Advised to Sue - ATS,No,11220,No Violation Issued,1
+Electronic Store - 001,Exchange Goods/Contract Cancelled - E01,Advised to Sue - ATS,No,11419,No Violation Issued,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Advised to Sue - ATS,No,11204,Violation Issued,1
+Electronic Store - 001,Defective Goods - D02,Goods Repaired - GRS,Yes,10455,No Violation Issued,1
+Secondhand Dealer Auto - 005,Exchange Goods/Contract Cancelled - E01,No Satisfactory Preempted - NSP,NA,11385,No Violation Issued,1
+Electronic Store - 001,Misrepresentation - M01,Resolved and Consumer Satisfied - SPF,Yes,,No Violation Issued,1
+Furniture Sales - 242,Misrepresentation - M01,Resolved and Consumer Satisfied - SPF,Yes,30144,No Violation Issued,1
+Misc Non-Food Retail - 817,Non-Delivery of Goods - N01,Goods Received - GDR,Yes,11201,Out of Business,1
+Employment Agency - 034,Non-Delivery of Service - N02,Referred to Outside - RTO,NA,10029,No Violation Issued,1
+Jewelry Store-Retail - 823,Surcharge/Overcharge - S02,Cash Amount - AMT,Yes,11372,No Violation Issued,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Goods Repaired - GRS,Yes,10462,Violation Issued,1
+Home Improvement Contractor - 100,Non-Delivery of Service - N02,Resolved and Consumer Satisfied - SPF,Yes,11714,Violation Issued,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Unable to Locate Business - ULV,NA,11743,Violation Issued,1
+Home Improvement Contractor - 100,Non-Delivery of Service - N02,Advised to Sue - ATS,No,11432,Violation Issued,1
+Other,Quality of Work - Q01,Cash Amount - AMT,Yes,10303,No Violation Issued,1
+Tow Truck Company - 124,Surcharge/Overcharge - S02,Cash Amount - AMT,Yes,11203,Pass,1
+Home Improvement Contractor - 100,Non-Delivery of Service - N02,Advised to Sue - ATS,No,11204,Violation Issued,1
+Misc Non-Food Retail - 817,Exchange Goods/Contract Cancelled - E01,No Business Response - NVR,No,10003,Out of Business,1
+Electronic Store - 001,Advertising/Misleading - A02,Advised to Sue - ATS,No,10001,No Violation Issued,1
+Electronic Store - 001,Wrong Goods - W01,Advised to Sue - ATS,No,10011,Violation Issued,1
+Home Improvement Contractor - 100,Quality of Work - Q01,No Business Response - NVR,No,11218,Violation Issued,1
+Employment Agency - 034,Exchange Goods/Contract Cancelled - E01,Unable to Locate Business - ULV,NA,10018,Out of Business,1
+Garage - 049,Exchange Goods/Contract Cancelled - E01,Store Credit - SCR,Yes,10025,Violation Issued,1
+Misc Non-Food Retail - 817,Billing Dispute - B02,Resolved and Consumer Satisfied - SPF,Yes,11213,No Violation Issued,1
+Home Improvement Contractor - 100,Refund Policy - R01,No Business Response - NVR,No,11218,No Violation Issued,1
+Home Improvement Contractor - 100,,Advised to Sue - ATS,No,11358,Violation Issued,1
+Home Improvement Contractor - 100,Breach of Contract - B03,Advised to Sue - ATS,No,11219,Violation Issued,1
+Garage - 049,Damaged Goods - D01,Referred to Hearing - RTH,No,10012,No Violation Issued,1
+Jewelry Store-Retail - 823,Misrepresentation - M01,No Satisfactory Preempted - NSP,NA,11105,No Violation Issued,1
+Furniture Sales - 242,Non-Delivery of Goods - N01,Advised to Sue - ATS,No,11372,No Violation Issued,1
+Tow Truck Company - 124,Damaged Goods - D01,Cash Amount - AMT,Yes,11223,No Violation Issued,1
+Garage - 049,Damaged Goods - D01,Cash Amount - AMT,Yes,10017,Pass,1
+Tow Truck Company - 124,Misrepresentation - M01,Referred to Hearing - RTH,No,11211,License Confiscated,1
+Tow Truck Company - 124,Billing Dispute - B02,Cash Amount - AMT,Yes,11222,Pass,1
+Tow Truck Company - 124,Surcharge/Overcharge - S02,Cash Amount - AMT,Yes,10460,Pass,1
+Home Improvement Contractor - 100,Quality of Work - Q01,No Business Response - NVR,No,10306,Violation Issued,1
+Home Improvement Contractor - 100,Non-Delivery of Service - N02,Unable to Locate Business - ULV,NA,11385,No Violation Issued,1
+Garage - 049,Damaged Goods - D01,Referred to Hearing - RTH,No,10023,No Violation Issued,1
+Tow Truck Company - 124,Misrepresentation - M01,Cash Amount - AMT,Yes,11417,Pass,1
+Home Improvement Contractor - 100,Unlicensed,Credit Card Refund and/or Contract Cancelled - CRC,Yes,10155,Violation Issued,1
+Tow Truck Company - 124,Receipt Incomplete/Not Given,Resolved and Consumer Satisfied - SPF,Yes,10459,Pass,1
+Jewelry Store-Retail - 823,Unauthorized Repair - U01,Cash Amount - AMT,Yes,10314,Pass,1
+Tow Truck Company - 124,Surcharge/Overcharge - S02,Referred to Hearing - RTH,No,11377,Pass,1
+Home Improvement Contractor - 100,Non-Delivery of Service - N02,Unable to Locate Business - ULV,NA,11421,Violation Issued,1
+Employment Agency - 034,Non-Delivery of Service - N02,Unable to Locate Business - ULV,NA,10018,Out of Business,1
+Tow Truck Company - 124,Surcharge/Overcharge - S02,Referred to Hearing - RTH,No,11232,Out of Business,1
+Furniture Sales - 242,Damaged Goods - D01,Advised to Sue - ATS,No,11103,No Violation Issued,1
+Furniture Sales - 242,Surcharge/Overcharge - S02,Advised to Sue - ATS,No,11103,No Violation Issued,1
+Travel Agency - 440,Misrepresentation - M01,No Business Response - NVR,No,10005,Out of Business,1
+Home Improvement Contractor - 100,Misrepresentation - M01,Advised to Sue - ATS,No,11234,Violation Issued,1
+Home Improvement Contractor - 100,Misrepresentation - M01,No Satisfactory Agreement - NSA,No,10030,Violation Issued,1
+Furniture Sales - 242,,Credit Card Refund and/or Contract Cancelled - CRC,Yes,10035,Violation Issued,1
+Electronic Store - 001,Exchange Goods/Contract Cancelled - E01,Advised to Sue - ATS,No,11214,No Evidence of Activity,1
+Garage - 049,Misrepresentation - M01,Resolved and Consumer Satisfied - SPF,Yes,10016,Violation Issued,1
+Tax Preparers - 891,Non-Delivery of Service - N02,Cash Amount - AMT,Yes,10451,No Violation Issued,1
+Secondhand Dealer Auto - 005,Defective Goods - D02,Goods Repaired - GRS,Yes,11226,Pass,1
+Misc Non-Food Retail - 817,Refund Policy - R01,Consumer Took Action - CTA,No,10019,Closed,1
+Auction House - 128,,Advised to Sue - ATS,No,10022,Out of Business,1
+Secondhand Dealer Auto - 005,Breach of Contract - B03,Consumer Took Action - CTA,No,11377,Out of Business,1
+Secondhand Dealer Auto - 005,Breach of Contract - B03,Advised to Sue - ATS,No,,Violation Issued,1
+Parking Lot - 050,,Goods Repaired - GRS,Yes,10019,No Violation Issued,1
+Electronic Store - 001,Non-Delivery of Goods - N01,Advised to Sue - ATS,No,95014,No Violation Issued,1
+Tow Truck Company - 124,Surcharge/Overcharge - S02,Consumer Took Action - CTA,No,11208,Violation Issued,1
+Electronic & Home Appliance Service Dealer - 115,Defective Goods - D02,No Satisfactory Agreement - NSA,No,11429,No Violation Issued,1
+Garage - 049,Surcharge/Overcharge - S02,Referred to Hearing - RTH,No,10010,Violation Issued,1
+Electronic Store - 001,Exchange Goods/Contract Cancelled - E01,Goods Exchanged - GEX,Yes,11375,No Violation Issued,1
+Jewelry Store-Retail - 823,Misrepresentation - M01,Unable to Locate Business - ULV,NA,11372,Out of Business,1
+Tow Truck Company - 124,Misrepresentation - M01,Complaint Invalid - CIN,NA,11378,Pass,1
+Furniture Sales - 242,Misrepresentation - M01,Advised to Sue - ATS,No,54612,No Violation Issued,1
+Garage & Parking Lot - 098,,Credit Card Refund and/or Contract Cancelled - CRC,Yes,10069,No Violation Issued,1
+Electronic & Home Appliance Service Dealer - 115,Surcharge/Overcharge - S02,Store Credit - SCR,Yes,11103,No Violation Issued,1
+Laundry - 064,Damaged Goods - D01,Advised to Sue - ATS,No,11102,Pass,1
+Garage - 049,Surcharge/Overcharge - S02,Cash Amount - AMT,Yes,11434,Violation Issued,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Resolved and Consumer Satisfied - SPF,Yes,11224,Violation Issued,1
+Electronic & Home Appliance Service Dealer - 115,Exchange Goods/Contract Cancelled - E01,Advised to Sue - ATS,No,11419,No Violation Issued,1
+Electronic Store - 001,Exchange Goods/Contract Cancelled - E01,Resolved and Consumer Satisfied - SPF,Yes,10468,No Violation Issued,1
+Electronic Store - 001,Advertising/Misleading - A02,Advised to Sue - ATS,No,10468,No Violation Issued,1
+Restaurant - 818,Surcharge/Overcharge - S02,Goods Received - GDR,Yes,10014,No Violation Issued,1
+Furniture Sales - 242,Exchange Goods/Contract Cancelled - E01,Resolved and Consumer Satisfied - SPF,Yes,11375,Out of Business,1
+Secondhand Dealer Auto - 005,Damaged Goods - D01,Referred to Outside - RTO,NA,10306,No Evidence of Activity,1
+Tow Truck Company - 124,Misrepresentation - M01,Complaint Invalid - CIN,NA,,No Violation Issued,1
+Tow Truck Company - 124,Billing Dispute - B02,No Satisfactory Agreement - NSA,No,10470,No Violation Issued,1
+Secondhand Dealer Auto - 005,Billing Dispute - B02,Cash Amount - AMT,Yes,10466,No Violation Issued,1
+Secondhand Dealer Auto - 005,Non-Delivery of Goods - N01,Goods Repaired - GRS,Yes,11432,Violation Issued,1
+Secondhand Dealer Auto - 005,Advertising/Misleading - A02,Resolved and Consumer Satisfied - SPF,Yes,11362,No Violation Issued,1
+Tow Truck Company - 124,Surcharge/Overcharge - S02,Complaint Invalid - CIN,NA,10461,Pass,1
+Secondhand Dealer Auto - 005,Damaged Goods - D01,Advised to Sue - ATS,No,11416,No Violation Issued,1
+Tow Truck Company - 124,Misrepresentation - M01,Cash Amount - AMT,Yes,10475,No Violation Issued,1
+Secondhand Dealer Auto - 005,Misrepresentation - M01,Resolved and Consumer Satisfied - SPF,Yes,11101,Violation Issued,1
+Auto Dealership - 212,Breach of Contract - B03,Cash Amount - AMT,Yes,10469,Warning,1
+Tow Truck Company - 124,Surcharge/Overcharge - S02,Referred to Outside - RTO,NA,10461,Pass,1
+Misc Non-Food Retail - 817,Non-Delivery of Goods - N01,Advised to Sue - ATS,No,11101,No Violation Issued,1
+Tow Truck Company - 124,Surcharge/Overcharge - S02,Cash Amount - AMT,Yes,11756,Pass,1
+Secondhand Dealer Auto - 005,Defective Goods - D02,Referred to Outside - RTO,NA,08302,Out of Business,1
+Secondhand Dealer Auto - 005,Defective Goods - D02,Advised to Sue - ATS,No,10451,Violation Issued,1
+Secondhand Dealer Auto - 005,Misrepresentation - M01,Out of Business - OOB,NA,10451,No Violation Issued,1
+Secondhand Dealer Auto - 005,Damaged Goods - D01,Consumer Withdrew Complaint - CWC,NA,10467,No Violation Issued,1
+Secondhand Dealer Auto - 005,Exchange Goods/Contract Cancelled - E01,Advised to Sue - ATS,No,11423,No Violation Issued,1
+Home Improvement Contractor - 100,Breach of Contract - B03,Advised to Sue - ATS,No,11207,No Violation Issued,1
+Home Improvement Salesperson - 101,,Advised to Sue - ATS,No,11369,Violation Issued,1
+Electronic Store - 001,Exchange Goods/Contract Cancelled - E01,No Satisfactory Agreement - NSA,No,10001,Out of Business,1
+Electronic Store - 001,Damaged Goods - D01,Goods Exchanged - GEX,Yes,10468,No Violation Issued,1
+Misc Non-Food Retail - 817,Misrepresentation - M01,Resolved and Consumer Satisfied - SPF,Yes,10019,No Violation Issued,1
+Dry Cleaners - 230,Damaged Goods - D01,Cash Amount - AMT,Yes,10026,Pass,1
+Gas Station-Retail - 815,Misrepresentation - M01,Advised to Sue - ATS,No,11412,Violation Issued,1
+Misc Non-Food Retail - 817,Non-Delivery of Service - N02,Goods Received - GDR,Yes,10029,Out of Business,1
+Dry Cleaners - 230,Wrong Goods - W01,Resolved and Consumer Satisfied - SPF,Yes,11215,No Violation Issued,1
+Secondhand Dealer Auto - 005,Non-Delivery of Goods - N01,Advised to Sue - ATS,No,11433,No Evidence of Activity,1
+Misc Non-Food Retail - 817,Damaged Goods - D01,Cash Amount - AMT,Yes,11226,No Violation Issued,1
+Misc Non-Food Retail - 817,Surcharge/Overcharge - S02,Store Credit - SCR,Yes,10314,Out of Business,1
+Garage - 049,Surcharge/Overcharge - S02,Resolved and Consumer Satisfied - SPF,Yes,07076,No Violation Issued,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Advised to Sue - ATS,No,11365,No Violation Issued,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Advised to Sue - ATS,No,11365,Violation Issued,1
+Retail Store - 820,Refund Policy - R01,Advised to Sue - ATS,No,11223,No Violation Issued,1
+Secondhand Dealer Auto - 005,Breach of Contract - B03,Cash Amount - AMT,Yes,11220,No Violation Issued,1
+Secondhand Dealer Auto - 005,Surcharge/Overcharge - S02,Cash Amount - AMT,Yes,11220,No Violation Issued,1
+Secondhand Dealer Auto - 005,Excessive Charges,Cash Amount - AMT,Yes,11220,No Violation Issued,1
+Secondhand Dealer Auto - 005,Non-Delivery of Goods - N01,Resolved and Consumer Satisfied - SPF,Yes,07047,Out of Business,1
+Auto Leasing - 211,Billing Dispute - B02,Resolved and Consumer Satisfied - SPF,Yes,11209,No Violation Issued,1
+Secondhand Dealer Auto - 005,Billing Dispute - B02,Advised to Sue - ATS,No,11361,Violation Issued,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Advised to Sue - ATS,No,11361,Violation Issued,1
+Dealer In Products For The Disabled - 119,Non-Delivery of Goods - N01,Complaint Invalid - CIN,NA,11433,Out of Business,1
+Tow Truck Company - 124,Billing Dispute - B02,Cash Amount - AMT,Yes,10473,Pass,1
+Garage - 049,Damaged Goods - D01,Cash Amount - AMT,Yes,10016,Violation Issued,1
+Home Improvement Contractor - 100,,Advised to Sue - ATS,No,11214,Violation Issued,1
+Home Improvement Contractor - 100,Breach of Warranty - B04,Advised to Sue - ATS,No,11694,Violation Issued,1
+Secondhand Dealer Auto - 005,Outstanding Judgment - J01,Referred to Outside - RTO,NA,11236,Out of Business,1
+Misc Non-Food Retail - 817,Damaged Goods - D01,Cash Amount - AMT,Yes,11226,No Violation Issued,1
+Tow Truck Company - 124,Damaged Goods - D01,Referred to Outside - RTO,NA,11223,No Violation Issued,1
+Jewelry Store-Retail - 823,Lost Property - L02,Advised to Sue - ATS,No,11577,No Violation Issued,1
+Jewelry Store-Retail - 823,Exchange Goods/Contract Cancelled - E01,No Satisfactory Agreement - NSA,No,11214,No Violation Issued,1
+Electronic Store - 001,,Credit Card Refund and/or Contract Cancelled - CRC,Yes,55423,Violation Issued,1
+Electronic Store - 001,Refund Policy - R01,Goods Exchanged - GEX,Yes,60532,No Violation Issued,1
+Secondhand Dealer Auto - 005,Non-Delivery of Goods - N01,Resolved and Consumer Satisfied - SPF,Yes,10469,Violation Issued,1
+Home Improvement Contractor - 100,Non-Delivery of Service - N02,Advised to Sue - ATS,No,10033,Violation Issued,1
+Furniture Sales - 242,Damaged Goods - D01,Goods Exchanged - GEX,Yes,11432,Violation Issued,1
+Furniture Sales - 242,Non-Delivery of Goods - N01,Consumer Took Action - CTA,No,10458,Pass,1
+Furniture Sales - 242,Damaged Goods - D01,No Business Response - NVR,No,11220,Violation Issued,1
+Dry Cleaners - 230,Wrong Goods - W01,Cash Amount - AMT,Yes,11212,Violation Issued,1
+Electronic Store - 001,,Credit Card Refund and/or Contract Cancelled - CRC,Yes,10001,Out of Business,1
+Electronic Store - 001,Misrepresentation - M01,Cash Amount - AMT,Yes,10459,No Violation Issued,1
+Furniture Sales - 242,Damaged Goods - D01,Advised to Sue - ATS,No,10458,Out of Business,1
+Travel Agency - 440,Closed without Notice,Unable to Locate Business - ULV,NA,10013,Out of Business,1
+Electronic Store - 001,Exchange Goods/Contract Cancelled - E01,Goods Exchanged - GEX,Yes,11417,No Violation Issued,1
+Secondhand Dealer Auto - 005,Billing Dispute - B02,Cash Amount - AMT,Yes,11385,No Violation Issued,1
+Furniture Sales - 242,Damaged Goods - D01,Cash Amount - AMT,Yes,11226,No Violation Issued,1
+Secondhand Dealer Auto - 005,Damaged Goods - D01,No Satisfactory Preempted - NSP,NA,11377,No Violation Issued,1
+Wearing Apparel - 450,Exchange Goods/Contract Cancelled - E01,No Consumer Response - NCR,NA,11226,No Violation Issued,1
+Furniture Sales - 242,Damaged Goods - D01,Advised to Sue - ATS,No,11435,No Violation Issued,1
+Dry Cleaners - 230,Non-Delivery of Service - N02,Cash Amount - AMT,Yes,11230,No Violation Issued,1
+Misc Non-Food Retail - 817,Exchange Goods/Contract Cancelled - E01,Advised to Sue - ATS,No,11209,Violation Issued,1
+Home Improvement Contractor - 100,Non-Delivery of Service - N02,Advised to Sue - ATS,No,11219,Violation Issued,1
+Electronic Store - 001,Defective Goods - D02,Advised to Sue - ATS,No,10001,Out of Business,1
+Furniture Sales - 242,Refund Policy - R01,Cash Amount - AMT,Yes,10027,No Violation Issued,1
+Home Improvement Contractor - 100,Non-Delivery of Service - N02,Advised to Sue - ATS,No,10002,Violation Issued,1
+Tow Truck Company - 124,Outstanding Judgment - J01,Agency Collected Judgement - ACJ,Yes,11222,Pass,1
+Misc Non-Food Retail - 817,Exchange Goods/Contract Cancelled - E01,Advised to Sue - ATS,No,10003,No Violation Issued,1
+Furniture Sales - 242,Non-Delivery of Goods - N01,Unable to Locate Business - ULV,NA,10035,Out of Business,1
+Tow Truck Company - 124,Billing Dispute - B02,Cash Amount - AMT,Yes,11231,Pass,1
+Misc Non-Food Retail - 817,Refund Policy - R01,Store Credit - SCR,Yes,01581,Pass,1
+Furniture Sales - 242,Misrepresentation - M01,Advised to Sue - ATS,No,11385,Out of Business,1
+Dry Cleaners - 230,Non-Delivery of Service - N02,Advised to Sue - ATS,No,11209,Violation Issued,1
+Misc Non-Food Retail - 817,Exchange Goods/Contract Cancelled - E01,No Business Response - NVR,No,10027,Out of Business,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Goods Repaired - GRS,Yes,10314,Licensed,1
+Misc Non-Food Retail - 817,Exchange Goods/Contract Cancelled - E01,Cash Amount - AMT,Yes,10459,Violation Issued,1
+Secondhand Dealer Auto - 005,Billing Dispute - B02,Advised to Sue - ATS,No,11416,No Violation Issued,1
+Health Spa - 839,,Resolved and Consumer Satisfied - SPF,Yes,10016,No Violation Issued,1
+Tax Preparers - 891,Surcharge/Overcharge - S02,Resolved and Consumer Satisfied - SPF,Yes,64105,No Violation Issued,1
+Tax Preparers - 891,Advertising/Misleading - A02,Cash Amount - AMT,Yes,11217,No Violation Issued,1
+Retail Store - 820,Surcharge/Overcharge - S02,Resolved and Consumer Satisfied - SPF,Yes,10023,No Violation Issued,1
+Secondhand Dealer Auto - 005,Misrepresentation - M01,Cash Amount - AMT,Yes,11220,Violation Issued,1
+Home Improvement Contractor - 100,Non-Delivery of Service - N02,Cash Amount - AMT,Yes,10462,No Violation Issued,1
+Tow Truck Company - 124,Surcharge/Overcharge - S02,Consumer Withdrew Complaint - CWC,NA,11378,No Violation Issued,1
+Secondhand Dealer Auto - 005,Breach of Contract - B03,Advised to Sue - ATS,No,,No Violation Issued,1
+Furniture Sales - 242,Defective Goods - D02,Goods Exchanged - GEX,Yes,11385,No Violation Issued,1
+Furniture Sales - 242,Non-Delivery of Goods - N01,No Business Response - NVR,No,11435,No Violation Issued,1
+Home Improvement Contractor - 100,Damaged Goods - D01,Referred to Hearing - RTH,No,11417,No Violation Issued,1
+Electronic Store - 001,Advertising/Misleading - A02,No Business Response - NVR,No,,No Violation Issued,1
+Electronic Store - 001,Breach of Contract - B03,Advised to Sue - ATS,No,,Licensed,1
+Tow Truck Company - 124,Billing Dispute - B02,Referred to Hearing - RTH,No,10466,Pass,1
+Pawnbroker - 080,Misrepresentation - M01,Cash Amount - AMT,Yes,10017,No Violation Issued,1
+Tow Truck Company - 124,Surcharge/Overcharge - S02,Referred to Outside - RTO,NA,11434,No Evidence of Activity,1
+Secondhand Dealer Auto - 005,Billing Dispute - B02,Consumer Withdrew Complaint - CWC,NA,10469,Violation Issued,1
+Electronic Store - 001,Misrepresentation - M01,Advised to Sue - ATS,No,11435,Out of Business,1
+Appliances - 244,Defective Goods - D02,No Satisfactory Agreement - NSA,No,10002,No Violation Issued,1
+Garage - 049,Non-Delivery Goods/Services,Consumer Took Action - CTA,No,10451,Violation Issued,1
+Misc Non-Food Retail - 817,Surcharge/Overcharge - S02,Complaint Invalid - CIN,NA,10034,Pass,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Consumer Took Action - CTA,No,11419,Violation Issued,1
+Furniture Sales - 242,Exchange Goods/Contract Cancelled - E01,Advised to Sue - ATS,No,11223,No Violation Issued,1
+Tow Truck Company - 124,,Referred to Hearing - RTH,No,10301,Pass,1
+Tow Truck Company - 124,Misrepresentation - M01,Resolved and Consumer Satisfied - SPF,Yes,,Pass,1
+Misc Non-Food Retail - 817,Wrong Goods - W01,No Satisfactory Preempted - NSP,NA,11235,No Violation Issued,1
+Garage - 049,Exchange Goods/Contract Cancelled - E01,Resolved and Consumer Satisfied - SPF,Yes,10065,Violation Issued,1
+Electronic Store - 001,Defective Goods - D02,No Consumer Response - NCR,NA,10019,Out of Business,1
+Laundry - 064,,Credit Card Refund and/or Contract Cancelled - CRC,Yes,11221,Pass,1
+Secondhand Dealer Auto - 005,Breach of Contract - B03,Resolved and Consumer Satisfied - SPF,Yes,10469,Out of Business,1
+Pawnbroker - 080,Non-Delivery of Goods - N01,No Satisfactory Preempted - NSP,NA,10458,No Violation Issued,1
+Electronic Store - 001,Misrepresentation - M01,Cash Amount - AMT,Yes,11226,No Violation Issued,1
+Furniture Sales - 242,Misrepresentation - M01,Consumer Took Action - CTA,No,11215,Violation Issued,1
+Misc Non-Food Retail - 817,Non-Delivery of Goods - N01,Cash Amount - AMT,Yes,11205,No Violation Issued,1
+Secondhand Dealer Auto - 005,Exchange Goods/Contract Cancelled - E01,Referred to Outside - RTO,NA,11209,No Violation Issued,1
+Home Improvement Contractor - 100,,No Business Response - NVR,No,11225,Violation Issued,1
+Electronic Store - 001,Exchange Goods/Contract Cancelled - E01,Resolved and Consumer Satisfied - SPF,Yes,10017,Warning,1
+Electronic Store - 001,Breach of Contract - B03,No Satisfactory Preempted - NSP,NA,10017,No Violation Issued,1
+Home Improvement Contractor - 100,Non-Delivery of Service - N02,Goods Received - GDR,Yes,11421,Violation Issued,1
+Electronic Store - 001,Advertising/Misleading - A02,Cash Amount - AMT,Yes,10468,Out of Business,1
+Home Improvement Contractor - 100,Damaged Goods - D01,No Business Response - NVR,No,11432,Violation Issued,1
+Misc Non-Food Retail - 817,Exchange Goods/Contract Cancelled - E01,Cash Amount - AMT,Yes,08016,No Violation Issued,1
+Electronic Store - 001,Exchange Goods/Contract Cancelled - E01,Advised to Sue - ATS,No,10453,No Violation Issued,1
+Industry,Complaint Type,Complaint Result,Satisfaction,Business Zip,Inspection Result,1
+Secondhand Dealer Auto - 005,Damaged Goods - D01,Advised to Sue - ATS,No,10310,Violation Issued,1
+Jewelry Store-Retail - 823,Refund Policy - R01,No Consumer Response - NCR,NA,10019,No Violation Issued,1
+Electronic Store - 001,Exchange Goods/Contract Cancelled - E01,Complaint Invalid - CIN,NA,11216,No Violation Issued,1
+Furniture Sales - 242,Damaged Goods - D01,No Satisfactory Preempted - NSP,NA,10472,No Violation Issued,1
+Garage - 049,Surcharge/Overcharge - S02,Cash Amount - AMT,Yes,10001,No Violation Issued,1
+Home Improvement Contractor - 100,,Advised to Sue - ATS,No,11231,No Violation Issued,1
+Home Improvement Contractor - 100,Breach of Contract - B03,Advised to Sue - ATS,No,11742,Violation Issued,1
+Electronic Store - 001,Defective Goods - D02,Advised to Sue - ATS,No,11432,No Violation Issued,1
+Electronic Store - 001,Defective Goods - D02,Cash Amount - AMT,Yes,10001,No Violation Issued,1
+Tow Truck Company - 124,Billing Dispute - B02,Referred to Hearing - RTH,No,11423,Pass,1
+Misc Non-Food Retail - 817,Misrepresentation - M01,No Consumer Response - NCR,NA,10013,Warning,1
+Tow Truck Company - 124,Refund Policy - R01,Complaint Invalid - CIN,NA,11356,No Violation Issued,1
+Debt Collection Agency - 122,Harassment - H01,Resolved and Consumer Satisfied - SPF,Yes,28272,No Violation Issued,1
+Auction House - 128,,Complaint Invalid - CIN,NA,11101,Warning,1
+Secondhand Dealer Auto - 005,Damaged Goods - D01,Advised to Sue - ATS,No,11234,Out of Business,1
+Secondhand Dealer Auto - 005,Refund Policy - R01,Resolved and Consumer Satisfied - SPF,Yes,11214,No Evidence of Activity,1
+Dealer In Products For The Disabled - 119,Non-Delivery of Goods - N01,Cash Amount - AMT,Yes,10029,No Evidence of Activity,1
+Secondhand Dealer Auto - 005,Non-Delivery of Goods - N01,Referred to Outside - RTO,NA,11373,Violation Issued,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Advised to Sue - ATS,No,11429,Violation Issued,1
+Funeral Homes - 888,Refund Policy - R01,Referred to Outside - RTO,NA,11234,No Violation Issued,1
+Home Improvement Contractor - 100,Breach of Contract - B03,Advised to Sue - ATS,No,10463,No Violation Issued,1
+Electronic Store - 001,Misrepresentation - M01,Credit Card Refund and/or Contract Cancelled - CRC,Yes,10019,Out of Business,1
+Parking Lot - 050,Misrepresentation - M01,Cash Amount - AMT,Yes,10023,Violation Issued,1
+Home Improvement Contractor - 100,Non-Delivery of Service - N02,Advised to Sue - ATS,No,11231,Violation Issued,1
+Floor Coverings - 241,Non-Delivery of Goods - N01,Advised to Sue - ATS,No,11417,No Violation Issued,1
+Electronic & Home Appliance Service Dealer - 115,Exchange Goods/Contract Cancelled - E01,Consumer Took Action - CTA,No,10457,No Violation Issued,1
+Tow Truck Company - 124,,Cash Amount - AMT,Yes,11365,Pass,1
+Secondhand Dealer Auto - 005,Non-Delivery of Goods - N01,Advised to Sue - ATS,No,10312,No Violation Issued,1
+Tow Truck Company - 124,Surcharge/Overcharge - S02,Cash Amount - AMT,Yes,11233,Pass,1
+Pawnbroker - 080,Breach of Contract - B03,Advised to Sue - ATS,No,11210,No Violation Issued,1
+Tow Truck Company - 124,,Advised to Sue - ATS,No,11692,Pass,1
+Tow Truck Company - 124,,Resolved and Consumer Satisfied - SPF,Yes,11692,Pass,1
+Dry Cleaners - 230,,Unable to Locate Business - ULV,NA,10462,Out of Business,1
+Secondhand Dealer Auto - 005,Non-Delivery of Goods - N01,Consumer Took Action - CTA,No,11412,Closed,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Goods Repaired - GRS,Yes,10312,No Violation Issued,1
+Electronic Store - 001,Bait & Switch - B01,No Consumer Response - NCR,NA,10033,Violation Issued,1
+Electronic Store - 001,Advertising/Misleading - A02,Advised to Sue - ATS,No,11373,No Violation Issued,1
+Electronic Store - 001,Surcharge/Overcharge - S02,Advised to Sue - ATS,No,10027,Violation Issued,1
+Electronic Store - 001,Bait & Switch - B01,Resolved and Consumer Satisfied - SPF,Yes,78215,No Violation Issued,1
+Electronic Store - 001,Exchange Goods/Contract Cancelled - E01,Goods Exchanged - GEX,Yes,11235,No Violation Issued,1
+Dry Cleaners - 230,Damaged Goods - D01,Advised to Sue - ATS,No,10016,Pass,1
+Garage - 049,,Cash Amount - AMT,Yes,10001,No Violation Issued,1
+Electronic & Home Appliance Service Dealer - 115,Misrepresentation - M01,Unable to Locate Business - ULV,NA,10023,Unable to Locate,1
+Misc Non-Food Retail - 817,Surcharge/Overcharge - S02,Store Credit - SCR,Yes,10023,No Violation Issued,1
+Retail Store - 820,,Credit Card Refund and/or Contract Cancelled - CRC,Yes,10007,No Violation Issued,1
+Garage - 049,Damaged Goods - D01,Cash Amount - AMT,Yes,10463,No Violation Issued,1
+Tow Truck Company - 124,Surcharge/Overcharge - S02,Referred to Outside - RTO,NA,10309,Pass,1
+Electronic Store - 001,Exchange Goods/Contract Cancelled - E01,Store Credit - SCR,Yes,11419,Violation Issued,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Referred to Hearing - RTH,No,11234,Out of Business,1
+Garage - 049,Surcharge/Overcharge - S02,Cash Amount - AMT,Yes,10028,No Violation Issued,1
+Garage - 049,Damaged Goods - D01,Cash Amount - AMT,Yes,10016,Violation Issued,1
+Dry Cleaners - 230,Damaged Goods - D01,No Satisfactory Agreement - NSA,No,10033,Pass,1
+Secondhand Dealer Auto - 005,Billing Dispute - B02,Referred to Hearing - RTH,No,11793,Violation Issued,1
+Garage - 049,Surcharge/Overcharge - S02,No Consumer Response - NCR,NA,10021,Out of Business,1
+Dry Cleaners - 230,Non-Delivery of Service - N02,Goods Received - GDR,Yes,10014,No Violation Issued,1
+Garage - 049,Surcharge/Overcharge - S02,Cash Amount - AMT,Yes,10011,No Violation Issued,1
+Dry Cleaners - 230,Damaged Goods - D01,Cash Amount - AMT,Yes,11377,No Violation Issued,1
+Laundry - 064,,Cash Amount - AMT,Yes,10002,No Violation Issued,1
+Jewelry Store-Retail - 823,Unauthorized Repair - U01,Advised to Sue - ATS,No,11362,Pass,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Goods Repaired - GRS,Yes,11554,Violation Issued,1
+Hardware-Retail - 811,,Resolved and Consumer Satisfied - SPF,Yes,10013,Violation Issued,1
+Supermarket - 819,Exchange Goods/Contract Cancelled - E01,Goods Exchanged - GEX,Yes,10002,Violation Issued,1
+Grocery-Retail - 808,Surcharge/Overcharge - S02,Resolved and Consumer Satisfied - SPF,Yes,10010,Out of Business,1
+Laundry - 064,Damaged Goods - D01,No Satisfactory Agreement - NSA,No,11236,Violation Issued,1
+Tow Truck Company - 124,Billing Dispute - B02,Cash Amount - AMT,Yes,11207,Pass,1
+Supermarket - 819,Refund Policy - R01,No Satisfactory Preempted - NSP,NA,11354,No Violation Issued,1
+Dry Cleaners - 230,Damaged Goods - D01,No Consumer Response - NCR,NA,11372,Warning,1
+Supermarket - 819,Exchange Goods/Contract Cancelled - E01,No Consumer Response - NCR,NA,11355,Pass,1
+Pawnbroker - 080,Surcharge/Overcharge - S02,Referred to Hearing - RTH,No,11226,No Violation Issued,1
+Debt Collection Agency - 122,Billing Dispute - B02,Resolved and Consumer Satisfied - SPF,Yes,41042,No Violation Issued,1
+Garage - 049,Billing Dispute - B02,No Satisfactory Agreement - NSA,No,10019,No Violation Issued,1
+Secondhand Dealer Auto - 005,Damaged Goods - D01,Cash Amount - AMT,Yes,11223,No Violation Issued,1
+Secondhand Dealer Auto - 005,Misrepresentation - M01,Consumer Took Action - CTA,No,11419,No Violation Issued,1
+Furniture Sales - 242,Damaged Goods - D01,No Satisfactory Agreement - NSA,No,10026,No Violation Issued,1
+Tow Truck Company - 124,Billing Dispute - B02,Referred to Outside - RTO,NA,10464,No Evidence of Activity,1
+Misc Non-Food Retail - 817,Breach of Contract - B03,Cash Amount - AMT,Yes,11435,No Violation Issued,1
+Home Improvement Contractor - 100,Breach of Contract - B03,Consumer Took Action - CTA,No,11219,Violation Issued,1
+Sightseeing Guide - 021,,Credit Card Refund and/or Contract Cancelled - CRC,Yes,10018,Re-inspection,1
+Retail Store - 820,Exchange Goods/Contract Cancelled - E01,Resolved and Consumer Satisfied - SPF,Yes,11373,No Violation Issued,1
+Tow Truck Company - 124,Damaged Goods - D01,Referred to Outside - RTO,NA,11757,Pass,1
+Secondhand Dealer Auto - 005,Billing Dispute - B02,Credit Card Refund and/or Contract Cancelled - CRC,Yes,10469,No Violation Issued,1
+Secondhand Dealer Auto - 005,Exchange Goods/Contract Cancelled - E01,No Consumer Response - NCR,NA,10469,Out of Business,1
+Secondhand Dealer Auto - 005,Damaged Goods - D01,Resolved and Consumer Satisfied - SPF,Yes,10469,Violation Issued,1
+Secondhand Dealer Auto - 005,Misrepresentation - M01,Resolved and Consumer Satisfied - SPF,Yes,10469,No Violation Issued,1
+Misc Non-Food Retail - 817,Exchange Goods/Contract Cancelled - E01,Resolved and Consumer Satisfied - SPF,Yes,10013,Out of Business,1
+Garage - 049,Damaged Goods - D01,Referred to Hearing - RTH,No,10040,Violation Issued,1
+Secondhand Dealer Auto - 005,Breach of Contract - B03,Advised to Sue - ATS,No,11238,No Violation Issued,1
+Home Improvement Contractor - 100,Non-Delivery of Service - N02,Advised to Sue - ATS,No,10314,Violation Issued,1
+Pawnbroker - 080,Lost Property - L02,Complaint Invalid - CIN,NA,10305,No Violation Issued,1
+Tow Truck Company - 124,Surcharge/Overcharge - S02,Resolved and Consumer Satisfied - SPF,Yes,11219,Pass,1
+Dry Cleaners - 230,Non-Delivery of Service - N02,Cash Amount - AMT,Yes,11221,No Violation Issued,1
+Dry Cleaners - 230,Damaged Goods - D01,Consumer Took Action - CTA,No,11356,No Violation Issued,1
+Dry Cleaners - 230,Damaged Goods - D01,Advised to Sue - ATS,No,10023,Warning,1
+Dry Cleaners - 230,Damaged Goods - D01,Unable to Locate Business - ULV,NA,10461,Posting Order Served,1
+Laundry - 064,Damaged Goods - D01,No Business Response - NVR,No,11225,No Evidence of Activity,1
+Laundry - 064,Damaged Goods - D01,Cash Amount - AMT,Yes,10469,Pass,1
+Misc Non-Food Retail - 817,Exchange Goods/Contract Cancelled - E01,Store Credit - SCR,Yes,11372,No Violation Issued,1
+Misc Non-Food Retail - 817,Damaged Goods - D01,Store Credit - SCR,Yes,11226,No Violation Issued,1
+Home Improvement Contractor - 100,Surcharge/Overcharge - S02,Cash Amount - AMT,Yes,11220,No Violation Issued,1
+Restaurant - 818,Surcharge/Overcharge - S02,Bill Reduced - BLR,Yes,11201,No Violation Issued,1
+Misc Non-Food Retail - 817,Exchange Goods/Contract Cancelled - E01,Resolved and Consumer Satisfied - SPF,Yes,11234,No Violation Issued,1
+Tax Preparers - 891,,Resolved and Consumer Satisfied - SPF,Yes,11215,No Violation Issued,1
+Tow Truck Company - 124,Surcharge/Overcharge - S02,No Consumer Response - NCR,NA,10461,Pass,1
+Tow Truck Company - 124,Billing Dispute - B02,No Consumer Response - NCR,NA,10474,Violation Issued,1
+Pawnbroker - 080,Wrong Goods - W01,Advised to Sue - ATS,No,10472,No Violation Issued,1
+Garage - 049,Surcharge/Overcharge - S02,No Consumer Response - NCR,NA,11040,No Violation Issued,1
+Garage - 049,Misrepresentation - M01,Cash Amount - AMT,Yes,10016,No Violation Issued,1
+Electronic & Home Appliance Service Dealer - 115,Defective Goods - D02,No Consumer Response - NCR,NA,11103,No Violation Issued,1
+Electronic Store - 001,Exchange Goods/Contract Cancelled - E01,No Satisfactory Preempted - NSP,NA,11220,No Violation Issued,1
+Garage - 049,Exchange Goods/Contract Cancelled - E01,Cash Amount - AMT,Yes,10023,No Violation Issued,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Cash Amount - AMT,Yes,11234,Violation Issued,1
+Tow Truck Company - 124,Billing Dispute - B02,Cash Amount - AMT,Yes,11223,Pass,1
+Home Improvement Contractor - 100,Breach of Contract - B03,No Business Response - NVR,No,10459,Violation Issued,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Advised to Sue - ATS,No,11420,Violation Issued,1
+Home Improvement Contractor - 100,Breach of Contract - B03,Referred to Outside - RTO,NA,11552,Violation Issued,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Consumer Took Action - CTA,No,10550,Violation Issued,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Goods Repaired - GRS,Yes,10469,Violation Issued,1
+Employment Agency - 034,Exchange Goods/Contract Cancelled - E01,Unable to Locate Business - ULV,NA,11235,No Evidence of Activity,1
+Home Improvement Contractor - 100,Non-Delivery of Service - N02,Advised to Sue - ATS,No,11236,Violation Issued,1
+Home Improvement Contractor - 100,Breach of Contract - B03,Advised to Sue - ATS,No,11223,Violation Issued,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Consumer Took Action - CTA,No,07470,Violation Issued,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Goods Repaired - GRS,Yes,11421,No Violation Issued,1
+Misc Non-Food Retail - 817,Exchange Goods/Contract Cancelled - E01,Cash Amount - AMT,Yes,10468,Violation Issued,1
+Garage - 049,Surcharge/Overcharge - S02,Credit Card Refund and/or Contract Cancelled - CRC,Yes,10065,Violation Issued,1
+Travel Agency - 440,Exchange Goods/Contract Cancelled - E01,Store Credit - SCR,Yes,10040,No Evidence of Activity,1
+Garage - 049,Surcharge/Overcharge - S02,Resolved and Consumer Satisfied - SPF,Yes,10010,No Violation Issued,1
+Garage & Parking Lot - 098,,Cash Amount - AMT,Yes,10019,Violation Issued,1
+Furniture Sales - 242,Damaged Goods - D01,Goods Exchanged - GEX,Yes,10467,No Violation Issued,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Advised to Sue - ATS,No,10566,Violation Issued,1
+Laundry - 064,Damaged Goods - D01,Cash Amount - AMT,Yes,10003,No Violation Issued,1
+Misc Non-Food Retail - 817,Exchange Goods/Contract Cancelled - E01,Goods Exchanged - GEX,Yes,11354,No Violation Issued,1
+Electronic Store - 001,Defective Goods - D02,Complaint Invalid - CIN,NA,,Pass,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Advised to Sue - ATS,No,11212,Violation Issued,1
+Tow Truck Company - 124,Surcharge/Overcharge - S02,Cash Amount - AMT,Yes,11102,Pass,1
+Tow Truck Company - 124,Surcharge/Overcharge - S02,Cash Amount - AMT,Yes,11362,Pass,1
+Misc Non-Food Retail - 817,Refund Policy - R01,No Business Response - NVR,No,10011,Out of Business,1
+Furniture Sales - 242,Non-Delivery of Goods - N01,Advised to Sue - ATS,No,11223,No Violation Issued,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Advised to Sue - ATS,No,11727,Violation Issued,1
+Secondhand Dealer Auto - 005,Breach of Contract - B03,Goods Received - GDR,Yes,10314,Violation Issued,1
+Garage - 049,Damaged Goods - D01,Cash Amount - AMT,Yes,10018,Violation Issued,1
+Electronic & Home Appliance Service Dealer - 115,Surcharge/Overcharge - S02,Store Credit - SCR,Yes,11226,No Violation Issued,1
+Electronic Store - 001,Non-Delivery of Goods - N01,Resolved and Consumer Satisfied - SPF,Yes,11210,No Violation Issued,1
+Pawnbroker - 080,Surcharge/Overcharge - S02,Consumer Took Action - CTA,No,11206,Out of Business,1
+Tow Truck Company - 124,Refund Policy - R01,Referred to Outside - RTO,NA,10461,Pass,1
+Secondhand Dealer Auto - 005,Breach of Contract - B03,Resolved and Consumer Satisfied - SPF,Yes,11210,No Violation Issued,1
+Restaurant - 818,Surcharge/Overcharge - S02,No Business Response - NVR,No,11103,No Evidence of Activity,1
+Home Improvement Contractor - 100,Breach of Contract - B03,Advised to Sue - ATS,No,11418,Violation Issued,1
+Tow Truck Company - 124,Surcharge/Overcharge - S02,Cash Amount - AMT,Yes,10310,Licensed,1
+Drug Store Retail - 810,Surcharge/Overcharge - S02,Resolved and Consumer Satisfied - SPF,Yes,02895,Violation Issued,1
+Misc Non-Food Retail - 817,Billing Dispute - B02,Store Credit - SCR,Yes,02895,Violation Issued,1
+Tow Truck Company - 124,Misrepresentation - M01,Complaint Invalid - CIN,NA,11224,No Violation Issued,1
+Secondhand Dealer Auto - 005,Exchange Goods/Contract Cancelled - E01,Advised to Sue - ATS,No,11385,No Violation Issued,1
+Tow Truck Company - 124,Billing Dispute - B02,Cash Amount - AMT,Yes,10035,Pass,1
+Jewelry Store-Retail - 823,Misrepresentation - M01,No Satisfactory Preempted - NSP,NA,10036,No Violation Issued,1
+Garage - 049,Damaged Goods - D01,Goods Repaired - GRS,Yes,10453,No Violation Issued,1
+Jewelry Store-Retail - 823,Misrepresentation - M01,Advised to Sue - ATS,No,10036,Pass,1
+Home Improvement Contractor - 100,Quality of Work - Q01,No Business Response - NVR,No,11104,Violation Issued,1
+Home Improvement Contractor - 100,,Advised to Sue - ATS,No,11229,Violation Issued,1
+Misc Non-Food Retail - 817,Defective Goods - D02,Advised to Sue - ATS,No,10012,No Violation Issued,1
+Other,Non-Delivery of Goods - N01,Advised to Sue - ATS,No,10469,No Violation Issued,1
+Health Spa - 839,Refund Policy - R01,Credit Card Refund and/or Contract Cancelled - CRC,Yes,10003,No Violation Issued,1
+Funeral Homes - 888,Surcharge/Overcharge - S02,No Consumer Response - NCR,NA,11207,No Violation Issued,1
+Secondhand Dealer Auto - 005,Exchange Goods/Contract Cancelled - E01,Advised to Sue - ATS,No,11234,No Violation Issued,1
+Home Improvement Contractor - 100,Breach of Contract - B03,Advised to Sue - ATS,No,11385,No Evidence of Activity,1
+Electronic Store - 001,Misrepresentation - M01,Resolved and Consumer Satisfied - SPF,Yes,10002,Violation Issued,1
+Electronic Store - 001,Unlicensed,Cash Amount - AMT,Yes,11368,No Violation Issued,1
+Employment Agency - 034,Misrepresentation - M01,Cash Amount - AMT,Yes,10005,Out of Business,1
+Tow Truck Company - 124,Billing Dispute - B02,Cash Amount - AMT,Yes,11232,No Violation Issued,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Advised to Sue - ATS,No,11215,No Violation Issued,1
+Misc Non-Food Retail - 817,Surcharge/Overcharge - S02,Advised to Sue - ATS,No,11103,No Violation Issued,1
+Home Improvement Contractor - 100,Non-Delivery of Service - N02,No Business Response - NVR,No,10466,Violation Issued,1
+Furniture Sales - 242,,Advised to Sue - ATS,No,10016,Out of Business,1
+Secondhand Dealer Auto - 005,Misrepresentation - M01,Cash Amount - AMT,Yes,11207,Violation Issued,1
+Secondhand Dealer [General] - 006,Non-Delivery of Goods - N01,Referred to Hearing - RTH,No,10007,Violation Issued,1
+Home Improvement Contractor - 100,Quality of Work - Q01,No Consumer Response - NCR,NA,10017,Violation Issued,1
+Pawnbroker - 080,Damaged Goods - D01,Consumer Withdrew Complaint - CWC,NA,10040,No Violation Issued,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Resolved and Consumer Satisfied - SPF,Yes,11419,No Violation Issued,1
+Home Improvement Contractor - 100,Non-Delivery of Service - N02,Advised to Sue - ATS,No,11001,Violation Issued,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Cash Amount - AMT,Yes,11218,Violation Issued,1
+Furniture Sales - 242,Non-Delivery of Goods - N01,No Business Response - NVR,No,10458,No Violation Issued,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Referred to Hearing - RTH,No,11223,No Violation Issued,1
+Electronic Store - 001,Non-Delivery of Goods - N01,Cash Amount - AMT,Yes,11206,Warning,1
+Other,,No Business Response - NVR,No,10019,Re-inspection,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Consumer Took Action - CTA,No,11714,Violation Issued,1
+Misc Non-Food Retail - 817,Exchange Goods/Contract Cancelled - E01,Cash Amount - AMT,Yes,23320,Violation Issued,1
+Secondhand Dealer Auto - 005,Misrepresentation - M01,Consumer Took Action - CTA,No,10454,No Evidence of Activity,1
+Furniture Sales - 242,Exchange Goods/Contract Cancelled - E01,No Satisfactory Preempted - NSP,NA,11223,No Violation Issued,1
+Tow Truck Company - 124,Surcharge/Overcharge - S02,Cash Amount - AMT,Yes,11360,Pass,1
+Funeral Homes - 888,Refund Policy - R01,Unable to Locate Business - ULV,NA,11208,Out of Business,1
+Tow Truck Company - 124,Billing Dispute - B02,Referred to Hearing - RTH,No,10472,Pass,1
+Hotel/Motel - 460,Breach of Contract - B03,Resolved and Consumer Satisfied - SPF,Yes,10022,Out of Business,1
+Pawnbroker - 080,Outstanding Judgment - J01,Cash Amount - AMT,Yes,11201,Warning,1
+Misc Non-Food Retail - 817,,No Business Response - NVR,No,11106,No Violation Issued,1
+Secondhand Dealer Auto - 005,Damaged Goods - D01,Advised to Sue - ATS,No,11207,No Violation Issued,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Cash Amount - AMT,Yes,10302,No Violation Issued,1
+Furniture Sales - 242,Exchange Goods/Contract Cancelled - E01,Goods Exchanged - GEX,Yes,10455,Out of Business,1
+Home Improvement Contractor - 100,Non-Delivery of Service - N02,Referred to Hearing - RTH,No,11237,No Evidence of Activity,1
+Misc Non-Food Retail - 817,Exchange Goods/Contract Cancelled - E01,No Business Response - NVR,No,10475,Pass,1
+Electronic & Home Appliance Service Dealer - 115,Non-Delivery of Service - N02,Resolved and Consumer Satisfied - SPF,Yes,11355,Violation Issued,1
+Furniture Sales - 242,Wrong Goods - W01,Advised to Sue - ATS,No,11432,No Violation Issued,1
+Dry Cleaners - 230,Non-Delivery of Goods - N01,Out of Business - OOB,NA,10034,Out of Business,1
+Home Improvement Contractor - 100,Billing Dispute - B02,Unable to Locate Business - ULV,NA,11233,Violation Issued,1
+Home Improvement Contractor - 100,Non-Delivery of Service - N02,Advised to Sue - ATS,No,11435,Violation Issued,1
+Home Improvement Contractor - 100,,No Satisfactory Agreement - NSA,No,10456,No Violation Issued,1
+Pawnbroker - 080,,Advised to Sue - ATS,No,10032,Violation Issued,1
+Misc Non-Food Retail - 817,Defective Goods - D02,Cash Amount - AMT,Yes,10454,No Violation Issued,1
+Dry Cleaners - 230,Damaged Goods - D01,Cash Amount - AMT,Yes,11229,No Violation Issued,1
+Secondhand Dealer Auto - 005,Breach of Contract - B03,Referred to Outside - RTO,NA,11106,No Violation Issued,1
+Parking Lot - 050,Surcharge/Overcharge - S02,Resolved and Consumer Satisfied - SPF,Yes,10128,No Violation Issued,1
+Secondhand Dealer Auto - 005,Misrepresentation - M01,Cash Amount - AMT,Yes,11362,No Violation Issued,1
+Pawnbroker - 080,Lost Property - L02,Complaint Invalid - CIN,NA,11212,No Violation Issued,1
+Garage - 049,Surcharge/Overcharge - S02,Cash Amount - AMT,Yes,10016,Violation Issued,1
+Electronic Store - 001,Defective Goods - D02,Cash Amount - AMT,Yes,11373,No Violation Issued,1
+Furniture Sales - 242,Exchange Goods/Contract Cancelled - E01,Resolved and Consumer Satisfied - SPF,Yes,11203,No Violation Issued,1
+Secondhand Dealer Auto - 005,Non-Delivery of Goods - N01,Advised to Sue - ATS,No,10472,No Violation Issued,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Advised to Sue - ATS,No,10472,Violation Issued,1
+Furniture Sales - 242,Exchange Goods/Contract Cancelled - E01,Out of Business - OOB,NA,10027,Out of Business,1
+Garage - 049,Damaged Goods - D01,Cash Amount - AMT,Yes,10036,Violation Issued,1
+Parking Lot - 050,Surcharge/Overcharge - S02,Credit Card Refund and/or Contract Cancelled - CRC,Yes,07102,Violation Issued,1
+Tax Preparers - 891,Surcharge/Overcharge - S02,Advised to Sue - ATS,No,11413,Violation Issued,1
+Secondhand Dealer Auto - 005,Misrepresentation - M01,Goods Repaired - GRS,Yes,11203,No Violation Issued,1
+Furniture Sales - 242,Surcharge/Overcharge - S02,Cash Amount - AMT,Yes,11235,No Violation Issued,1
+Tow Truck Company - 124,Surcharge/Overcharge - S02,No Consumer Response - NCR,NA,11692,Pass,1
+Electronic Store - 001,Defective Goods - D02,Goods Exchanged - GEX,Yes,10455,No Violation Issued,1
+Appliances - 244,Damaged Goods - D01,Advised to Sue - ATS,No,11358,No Violation Issued,1
+Electronic Store - 001,Exchange Goods/Contract Cancelled - E01,Goods Exchanged - GEX,Yes,10467,Out of Business,1
+Electronic Store - 001,Misrepresentation - M01,No Satisfactory Agreement - NSA,No,11372,No Violation Issued,1
+Electronic & Home Appliance Service Dealer - 115,Defective Goods - D02,Cash Amount - AMT,Yes,,No Violation Issued,1
+Misc Non-Food Retail - 817,Surcharge/Overcharge - S02,Cash Amount - AMT,Yes,75201,Violation Issued,1
+Garage - 049,Billing Dispute - B02,Referred to Hearing - RTH,No,10011,No Violation Issued,1
+Electronic Store - 001,Misrepresentation - M01,Resolved and Consumer Satisfied - SPF,Yes,10033,No Violation Issued,1
+Furniture Sales - 242,Exchange Goods/Contract Cancelled - E01,Consumer Took Action - CTA,No,10027,No Violation Issued,1
+Secondhand Dealer Auto - 005,Exchange Goods/Contract Cancelled - E01,Cash Amount - AMT,Yes,11369,No Violation Issued,1
+Tax Preparers - 891,Non-Delivery of Service - N02,Advised to Sue - ATS,No,10454,No Evidence of Activity,1
+Secondhand Dealer Auto - 005,Exchange Goods/Contract Cancelled - E01,Cash Amount - AMT,Yes,11377,Warning,1
+Employment Agency - 034,Billing Dispute - B02,Unable to Locate Business - ULV,NA,10455,Out of Business,1
+Electronic Store - 001,Exchange Goods/Contract Cancelled - E01,Out of Business - OOB,NA,10001,Violation Issued,1
+Garage - 049,Surcharge/Overcharge - S02,Credit Card Refund and/or Contract Cancelled - CRC,Yes,10011,Violation Issued,1
+Garage - 049,Damage / Estimate,Cash Amount - AMT,Yes,11201,Violation Issued,1
+Auto Rental - 213,Surcharge/Overcharge - S02,Referred to Outside - RTO,NA,63105,No Violation Issued,1
+Home Improvement Contractor - 100,Breach of Contract - B03,Referred to Outside - RTO,NA,10312,No Evidence of Activity,1
+Garage - 049,Damaged Goods - D01,Referred to Hearing - RTH,No,10065,Violation Issued,1
+Employment Agency - 034,Non-Delivery of Service - N02,No Business Response - NVR,No,10001,Out of Business,1
+Furniture Sales - 242,Wrong Goods - W01,Advised to Sue - ATS,No,10034,Violation Issued,1
+Furniture Sales - 242,Exchange Goods/Contract Cancelled - E01,Advised to Sue - ATS,No,10034,No Violation Issued,1
+Tow Truck Company - 124,,Cash Amount - AMT,Yes,10470,Pass,1
+Electronic & Home Appliance Service Dealer - 115,Non-Delivery of Service - N02,Complaint Invalid - CIN,NA,11377,No Evidence of Activity,1
+Tow Truck Company - 124,Misrepresentation - M01,Cash Amount - AMT,Yes,11369,Pass,1
+Misc Non-Food Retail - 817,Exchange Goods/Contract Cancelled - E01,Advised to Sue - ATS,No,10003,No Violation Issued,1
+Health Spa - 839,,Resolved and Consumer Satisfied - SPF,Yes,10021,No Violation Issued,1
+Home Improvement Contractor - 100,Breach of Contract - B03,Advised to Sue - ATS,No,10304,Violation Issued,1
+Home Improvement Contractor - 100,Non-Delivery of Service - N02,No Business Response - NVR,No,10304,No Violation Issued,1
+Parking Lot - 050,Billing Dispute - B02,Cash Amount - AMT,Yes,11226,No Violation Issued,1
+Pawnbroker - 080,Misrepresentation - M01,Referred to Hearing - RTH,No,11101,Violation Issued,1
+Dry Cleaners - 230,Misrepresentation - M01,Advised to Sue - ATS,No,11030,No Violation Issued,1
+Dry Cleaners - 230,Damaged Goods - D01,Cash Amount - AMT,Yes,10036,No Violation Issued,1
+Misc Non-Food Retail - 817,Exchange Goods/Contract Cancelled - E01,Resolved and Consumer Satisfied - SPF,Yes,10019,No Violation Issued,1
+Electronic Store - 001,Advertising/Misleading - A02,Resolved and Consumer Satisfied - SPF,Yes,11223,Violation Issued,1
+Home Improvement Contractor - 100,,Advised to Sue - ATS,No,11356,No Violation Issued,1
+Secondhand Dealer Auto - 005,Exchange Goods/Contract Cancelled - E01,Consumer Took Action - CTA,No,10457,No Violation Issued,1
+Electronic Store - 001,Refund Policy - R01,Cash Amount - AMT,Yes,11354,No Violation Issued,1
+Secondhand Dealer Auto - 005,Exchange Goods/Contract Cancelled - E01,Advised to Sue - ATS,No,11434,Out of Business,1
+Electronic Store - 001,Wrong Goods - W01,Out of Business - OOB,NA,10458,Out of Business,1
+Home Improvement Contractor - 100,Breach of Contract - B03,Unable to Locate Business - ULV,NA,10040,No Violation Issued,1
+Storage Warehouse - 120,Exchange Goods/Contract Cancelled - E01,Resolved and Consumer Satisfied - SPF,Yes,10469,Violation Issued,1
+Misc Non-Food Retail - 817,Exchange Goods/Contract Cancelled - E01,No Satisfactory Agreement - NSA,No,10475,No Violation Issued,1
+Garage - 049,Damaged Goods - D01,No Business Response - NVR,No,11434,Out of Business,1
+Home Improvement Contractor - 100,Misrepresentation - M01,Advised to Sue - ATS,No,10305,Violation Issued,1
+Dry Cleaners - 230,Damaged Goods - D01,Unable to Locate Business - ULV,NA,11235,Out of Business,1
+Wearing Apparel - 450,Exchange Goods/Contract Cancelled - E01,Cash Amount - AMT,Yes,11372,No Violation Issued,1
+Home Improvement Contractor - 100,Breach of Contract - B03,Advised to Sue - ATS,No,11232,Violation Issued,1
+Gas Station-Retail - 815,Surcharge/Overcharge - S02,Consumer Withdrew Complaint - CWC,NA,11356,Fail,1
+Furniture Sales - 242,Exchange Goods/Contract Cancelled - E01,Advised to Sue - ATS,No,11368,No Violation Issued,1
+Tow Truck Company - 124,Breach of Contract - B03,Advised to Sue - ATS,No,11211,No Evidence of Activity,1
+Misc Non-Food Retail - 817,Exchange Goods/Contract Cancelled - E01,Complaint Invalid - CIN,NA,10019,No Violation Issued,1
+Garage - 049,Closed without Notice,Advised to Sue - ATS,No,10019,Violation Issued,1
+Secondhand Dealer Auto - 005,Exchange Goods/Contract Cancelled - E01,Consumer Withdrew Complaint - CWC,NA,10469,No Violation Issued,1
+Dry Cleaners - 230,Damaged Goods - D01,Cash Amount - AMT,Yes,10035,No Violation Issued,1
+Storage Warehouse - 120,Billing Dispute - B02,Resolved and Consumer Satisfied - SPF,Yes,11433,No Violation Issued,1
+Electronic Store - 001,Misrepresentation - M01,Goods Exchanged - GEX,Yes,10018,Posting Order Served,1
+Tow Truck Company - 124,Misrepresentation - M01,Cash Amount - AMT,Yes,10474,No Violation Issued,1
+Tow Truck Company - 124,Misrepresentation - M01,Complaint Invalid - CIN,NA,10473,Pass,1
+Secondhand Dealer Auto - 005,Damaged Goods - D01,Consumer Took Action - CTA,No,11368,Violation Issued,1
+Electronic Store - 001,Surcharge/Overcharge - S02,Consumer Took Action - CTA,No,11203,No Violation Issued,1
+Electronic Store - 001,Breach of Contract - B03,Consumer Took Action - CTA,No,11211,No Violation Issued,1
+Electronic Store - 001,Misrepresentation - M01,Resolved and Consumer Satisfied - SPF,Yes,11234,No Violation Issued,1
+Furniture Sales - 242,Misrepresentation - M01,Goods Exchanged - GEX,Yes,11220,No Violation Issued,1
+Dry Cleaners - 230,Non-Delivery of Service - N02,Cash Amount - AMT,Yes,11234,Out of Business,1
+Tow Truck Company - 124,Surcharge/Overcharge - S02,Cash Amount - AMT,Yes,11215,Pass,1
+Misc Non-Food Retail - 817,Non-Delivery of Goods - N01,Complaint Invalid - CIN,NA,11421,No Violation Issued,1
+Home Improvement Contractor - 100,Breach of Contract - B03,Advised to Sue - ATS,No,11577,Violation Issued,1
+Misc Non-Food Retail - 817,Exchange Goods/Contract Cancelled - E01,Goods Exchanged - GEX,Yes,11355,No Violation Issued,1
+Misc Non-Food Retail - 817,Non-Delivery of Goods - N01,Cash Amount - AMT,Yes,11355,No Violation Issued,1
+Secondhand Dealer Auto - 005,Breach of Warranty - B04,Goods Repaired - GRS,Yes,10468,Violation Issued,1
+Jewelry Store-Retail - 823,Misrepresentation - M01,No Satisfactory Agreement - NSA,No,10468,No Violation Issued,1
+Wearing Apparel - 450,Exchange Goods/Contract Cancelled - E01,Credit Card Refund and/or Contract Cancelled - CRC,Yes,90058,Out of Business,1
+Home Improvement Contractor - 100,Breach of Contract - B03,Advised to Sue - ATS,No,08501,Violation Issued,1
+Other,Misrepresentation - M01,Cash Amount - AMT,Yes,10455,No Violation Issued,1
+Electronic Store - 001,Misrepresentation - M01,Credit Card Refund and/or Contract Cancelled - CRC,Yes,10001,No Violation Issued,1
+Home Improvement Contractor - 100,Breach of Warranty - B04,Referred to Hearing - RTH,No,10314,No Violation Issued,1
+Electronic Store - 001,Breach of Contract - B03,Advised to Sue - ATS,No,11377,Closed,1
+Garage - 049,Damaged Goods - D01,Referred to Hearing - RTH,No,10024,Violation Issued,1
+Dry Cleaners - 230,Non-Delivery of Goods - N01,Unable to Locate Business - ULV,NA,10453,No Violation Issued,1
+Misc Non-Food Retail - 817,Misrepresentation - M01,Cash Amount - AMT,Yes,10002,No Violation Issued,1
+Tow Truck Company - 124,Billing Dispute - B02,Bill Reduced - BLR,Yes,11001,Pass,1
+Tow Truck Company - 124,Billing Dispute - B02,Cash Amount - AMT,Yes,10309,Pass,1
+Furniture Sales - 242,Defective Goods - D02,Goods Repaired - GRS,Yes,10455,No Violation Issued,1
+Furniture Sales - 242,Exchange Goods/Contract Cancelled - E01,Credit Card Refund and/or Contract Cancelled - CRC,Yes,11212,No Violation Issued,1
+Furniture Sales - 242,Surcharge/Overcharge - S02,Complaint Invalid - CIN,NA,11101,Violation Issued,1
+Furniture Sales - 242,Misrepresentation - M01,Consumer Took Action - CTA,No,10455,No Violation Issued,1
+Furniture Sales - 242,Exchange Goods/Contract Cancelled - E01,No Business Response - NVR,No,11435,No Violation Issued,1
+Furniture Sales - 242,,Advised to Sue - ATS,No,11234,No Violation Issued,1
+Furniture Sales - 242,Non-Delivery of Goods - N01,Goods Received - GDR,Yes,11433,Out of Business,1
+Furniture Sales - 242,Non-Delivery of Goods - N01,No Business Response - NVR,No,10451,No Violation Issued,1
+Furniture Sales - 242,Exchange Goods/Contract Cancelled - E01,Complaint Invalid - CIN,NA,10462,Out of Business,1
+Furniture Sales - 242,Damaged Goods - D01,Goods Exchanged - GEX,Yes,10455,No Violation Issued,1
+Furniture Sales - 242,Exchange Goods/Contract Cancelled - E01,Advised to Sue - ATS,No,10455,No Violation Issued,1
+Furniture Sales - 242,Exchange Goods/Contract Cancelled - E01,No Business Response - NVR,No,11204,No Violation Issued,1
+Furniture Sales - 242,Non-Delivery of Goods - N01,No Business Response - NVR,No,11234,No Violation Issued,1
+Furniture Sales - 242,Defective Goods - D02,No Satisfactory Agreement - NSA,No,10025,No Violation Issued,1
+Misc Non-Food Retail - 817,Refund Policy - R01,Resolved and Consumer Satisfied - SPF,Yes,10009,Violation Issued,1
+Electronic Store - 001,Exchange Goods/Contract Cancelled - E01,Consumer Took Action - CTA,No,,No Violation Issued,1
+Electronic Store - 001,Misrepresentation - M01,Advised to Sue - ATS,No,76051,No Violation Issued,1
+Electronic Store - 001,Exchange Goods/Contract Cancelled - E01,Advised to Sue - ATS,No,10468,No Violation Issued,1
+Garage - 049,Surcharge/Overcharge - S02,Cash Amount - AMT,Yes,10128,Violation Issued,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Advised to Sue - ATS,No,10523,Violation Issued,1
+Garage - 049,Damaged Goods - D01,Consumer Took Action - CTA,No,08105,Violation Issued,1
+Tax Preparers - 891,Non-Delivery of Goods - N01,Resolved and Consumer Satisfied - SPF,Yes,11372,Violation Issued,1
+Garage - 049,Surcharge/Overcharge - S02,Cash Amount - AMT,Yes,,Violation Issued,1
+Auto Dealership - 212,,Referred to Outside - RTO,NA,11226,No Violation Issued,1
+Home Improvement Contractor - 100,Breach of Contract - B03,Advised to Sue - ATS,No,11377,Violation Issued,1
+Dry Cleaners - 230,Damaged Goods - D01,No Satisfactory Agreement - NSA,No,11235,Pass,1
+Garage - 049,Other - Z01,Advised to Sue - ATS,No,10021,No Violation Issued,1
+Pawnbroker - 080,Misrepresentation - M01,No Satisfactory Agreement - NSA,No,11217,No Violation Issued,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Resolved and Consumer Satisfied - SPF,Yes,11218,No Violation Issued,1
+Home Improvement Contractor - 100,Non-Delivery of Service - N02,No Business Response - NVR,No,11219,Violation Issued,1
+Misc Non-Food Retail - 817,Exchange Goods/Contract Cancelled - E01,Credit Card Refund and/or Contract Cancelled - CRC,Yes,10036,No Violation Issued,1
+Misc Non-Food Retail - 817,Misrepresentation - M01,Credit Card Refund and/or Contract Cancelled - CRC,Yes,10022,No Violation Issued,1
+Electronic Store - 001,Misrepresentation - M01,Credit Card Refund and/or Contract Cancelled - CRC,Yes,10019,Warning,1
+Tow Truck Company - 124,Surcharge/Overcharge - S02,Referred to Hearing - RTH,No,11208,Pass,1
+Misc Non-Food Retail - 817,Non-Delivery of Goods - N01,Advised to Sue - ATS,No,11581,No Violation Issued,1
+Home Improvement Contractor - 100,Breach of Contract - B03,Consumer Took Action - CTA,No,07016,Violation Issued,1
+Home Improvement Contractor - 100,Breach of Contract - B03,Consumer Took Action - CTA,No,11003,Violation Issued,1
+Jewelry Store-Retail - 823,Exchange Goods/Contract Cancelled - E01,No Satisfactory Preempted - NSP,NA,10314,Pass,1
+Furniture Sales - 242,Non-Delivery of Goods - N01,Credit Card Refund and/or Contract Cancelled - CRC,Yes,11201,No Violation Issued,1
+Laundry - 064,Damaged Goods - D01,Advised to Sue - ATS,No,10801,No Violation Issued,1
+Pawnbroker - 080,Misrepresentation - M01,Bill Reduced - BLR,Yes,10458,Violation Issued,1
+Jewelry Store-Retail - 823,Refund Policy - R01,Goods Exchanged - GEX,Yes,11103,Warning,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Advised to Sue - ATS,No,11204,No Violation Issued,1
+Garage - 049,Damaged Goods - D01,Referred to Hearing - RTH,No,10011,No Violation Issued,1
+Electronic & Home Appliance Service Dealer - 115,Misrepresentation - M01,Goods Repaired - GRS,Yes,10032,Violation Issued,1
+Sightseeing Bus - 078,Non-Delivery of Service - N02,No Satisfactory Agreement - NSA,No,10017,Pass,1
+Misc Non-Food Retail - 817,Damaged Goods - D01,Cash Amount - AMT,Yes,11354,No Violation Issued,1
+Misc Non-Food Retail - 817,Exchange Goods/Contract Cancelled - E01,Resolved and Consumer Satisfied - SPF,Yes,10037,No Violation Issued,1
+Misc Non-Food Retail - 817,Non-Delivery of Goods - N01,Advised to Sue - ATS,No,11223,Out of Business,1
+Furniture Sales - 242,Defective Goods - D02,Resolved and Consumer Satisfied - SPF,Yes,11378,Out of Business,1
+Furniture Sales - 242,Misrepresentation - M01,No Satisfactory Agreement - NSA,No,11206,Violation Issued,1
+Funeral Homes - 888,Misrepresentation - M01,Cash Amount - AMT,Yes,10466,No Violation Issued,1
+Tow Truck Company - 124,Misrepresentation - M01,Cash Amount - AMT,Yes,11385,Pass,1
+Dry Cleaners - 230,Non-Delivery of Service - N02,Cash Amount - AMT,Yes,10019,No Violation Issued,1
+Misc Non-Food Retail - 817,,Advised to Sue - ATS,No,10458,No Violation Issued,1
+Misc Non-Food Retail - 817,Misrepresentation - M01,Goods Exchanged - GEX,Yes,10025,No Violation Issued,1
+Tow Truck Company - 124,Misrepresentation - M01,Cash Amount - AMT,Yes,11234,No Violation Issued,1
+Sightseeing Bus - 078,Exchange Goods/Contract Cancelled - E01,Consumer Took Action - CTA,No,10018,Violation Issued,1
+Home Improvement Contractor - 100,Non-Delivery of Service - N02,Unable to Locate Business - ULV,NA,07077,Violation Issued,1
+Tow Truck Company - 124,Surcharge/Overcharge - S02,Cash Amount - AMT,Yes,10303,Pass,1
+Grocery-Retail - 808,,Cash Amount - AMT,Yes,10019,Pass,1
+Electronic Store - 001,Exchange Goods/Contract Cancelled - E01,Resolved and Consumer Satisfied - SPF,Yes,10458,No Violation Issued,1
+Secondhand Dealer Auto - 005,Misrepresentation - M01,Resolved and Consumer Satisfied - SPF,Yes,11208,No Violation Issued,1
+Retail Store - 820,,Cash Amount - AMT,Yes,10021,No Violation Issued,1
+Home Improvement Contractor - 100,Surcharge/Overcharge - S02,Advised to Sue - ATS,No,11237,No Violation Issued,1
+Tow Truck Company - 124,Surcharge/Overcharge - S02,Cash Amount - AMT,Yes,11237,No Evidence of Activity,1
+Secondhand Dealer Auto - 005,Exchange Goods/Contract Cancelled - E01,Advised to Sue - ATS,No,10453,No Evidence of Activity,1
+Misc Non-Food Retail - 817,Defective Goods - D02,Advised to Sue - ATS,No,11201,No Violation Issued,1
+Tow Truck Company - 124,Misrepresentation - M01,Cash Amount - AMT,Yes,11223,Pass,1
+Pawnbroker - 080,Surcharge/Overcharge - S02,No Consumer Response - NCR,NA,11207,No Violation Issued,1
+Secondhand Dealer Auto - 005,Exchange Goods/Contract Cancelled - E01,Consumer Took Action - CTA,No,11215,No Violation Issued,1
+Home Improvement Contractor - 100,Non-Delivery of Service - N02,No Business Response - NVR,No,11206,Violation Issued,1
+Misc Non-Food Retail - 817,Exchange Goods/Contract Cancelled - E01,No Business Response - NVR,No,11418,Out of Business,1
+Dry Cleaners - 230,Damaged Goods - D01,Advised to Sue - ATS,No,11213,No Violation Issued,1
+Electronic Store - 001,Exchange Goods/Contract Cancelled - E01,Cash Amount - AMT,Yes,11355,No Violation Issued,1
+Electronic Store - 001,Breach of Contract - B03,Resolved and Consumer Satisfied - SPF,Yes,11435,No Violation Issued,1
+Hardware-Retail - 811,,Credit Card Refund and/or Contract Cancelled - CRC,Yes,11232,Fail,1
+Misc Non-Food Retail - 817,Non-Delivery of Service - N02,Goods Received - GDR,Yes,10037,No Violation Issued,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Advised to Sue - ATS,No,10467,No Violation Issued,1
+Electronic Store - 001,Misrepresentation - M01,Complaint Invalid - CIN,NA,10019,Out of Business,1
+Employment Agency - 034,Non-Delivery of Service - N02,Advised to Sue - ATS,No,10455,Posting Order Served,1
+Auction House - 128,Exchange Goods/Contract Cancelled - E01,Cash Amount - AMT,Yes,11354,No Violation Issued,1
+Dry Cleaners - 230,Damaged Goods - D01,Cash Amount - AMT,Yes,10027,Warning,1
+Secondhand Dealer Auto - 005,Misrepresentation - M01,Out of Business - OOB,NA,11552,Out of Business,1
+Electronic Store - 001,Damaged Goods - D01,Cash Amount - AMT,Yes,11372,No Violation Issued,1
+Garage & Parking Lot - 098,Damaged Goods - D01,Cash Amount - AMT,Yes,10023,Violation Issued,1
+Secondhand Dealer Auto - 005,Damaged Goods - D01,No Satisfactory Preempted - NSP,NA,,No Violation Issued,1
+Secondhand Dealer Auto - 005,Surcharge/Overcharge - S02,Cash Amount - AMT,Yes,11432,No Violation Issued,1
+Secondhand Dealer Auto - 005,Billing Dispute - B02,No Satisfactory Preempted - NSP,NA,11435,No Violation Issued,1
+Secondhand Dealer Auto - 005,Misrepresentation - M01,Cash Amount - AMT,Yes,11432,No Violation Issued,1
+Immigration Svc Prv - 893,Breach of Contract - B03,Resolved and Consumer Satisfied - SPF,Yes,11354,No Evidence of Activity,1
+Home Improvement Contractor - 100,,Referred to Hearing - RTH,No,11361,Out of Business,1
+Tow Truck Company - 124,Surcharge/Overcharge - S02,Cash Amount - AMT,Yes,11358,Pass,1
+Misc Non-Food Retail - 817,Price list,Resolved and Consumer Satisfied - SPF,Yes,11218,No Violation Issued,1
+Misc Non-Food Retail - 817,Breach of Contract - B03,Resolved and Consumer Satisfied - SPF,Yes,11214,Unable to Locate,1
+Misc Non-Food Retail - 817,Non-Delivery of Goods - N01,Resolved and Consumer Satisfied - SPF,Yes,11354,No Violation Issued,1
+Furniture Sales - 242,Damaged Goods - D01,Unable to Locate Consumer - ULC,NA,11235,No Violation Issued,1
+Misc Non-Food Retail - 817,Advertising/Misleading - A02,Store Credit - SCR,Yes,30339,Pass,1
+Furniture Sales - 242,Exchange Goods/Contract Cancelled - E01,Advised to Sue - ATS,No,11237,No Violation Issued,1
+Misc Non-Food Retail - 817,Damaged Goods - D01,Advised to Sue - ATS,No,11354,No Violation Issued,1
+Home Improvement Contractor - 100,,Unable to Locate Business - ULV,NA,11420,Violation Issued,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Cash Amount - AMT,Yes,11416,No Violation Issued,1
+Furniture Sales - 242,Exchange Goods/Contract Cancelled - E01,Advised to Sue - ATS,No,10472,Violation Issued,1
+Home Improvement Contractor - 100,Non-Delivery of Service - N02,Consumer Took Action - CTA,No,11414,Violation Issued,1
+Electronic & Home Appliance Service Dealer - 115,Non-Delivery of Service - N02,Goods Repaired - GRS,Yes,11735,No Violation Issued,1
+Furniture Sales - 242,Wrong Goods - W01,No Business Response - NVR,No,11234,No Violation Issued,1
+Supermarket - 819,Misrepresentation - M01,Resolved and Consumer Satisfied - SPF,Yes,10013,Pass,1
+Home Improvement Contractor - 100,Breach of Contract - B03,Advised to Sue - ATS,No,10309,Violation Issued,1
+Home Improvement Contractor - 100,Breach of Contract - B03,No Business Response - NVR,No,10469,No Evidence of Activity,1
+Electronic & Home Appliance Service Dealer - 115,,Cash Amount - AMT,Yes,10002,No Violation Issued,1
+Home Improvement Contractor - 100,Breach of Contract - B03,Advised to Sue - ATS,No,11354,No Violation Issued,1
+Furniture Sales - 242,Breach of Warranty - B04,Goods Exchanged - GEX,Yes,11373,No Violation Issued,1
+Misc Non-Food Retail - 817,Defective Goods - D02,Advised to Sue - ATS,No,10013,No Violation Issued,1
+Secondhand Dealer Auto - 005,Misrepresentation - M01,Cash Amount - AMT,Yes,10305,No Violation Issued,1
+Electronic Store - 001,,Bill Reduced - BLR,Yes,11550,No Violation Issued,1
+Electronic Store - 001,Breach of Contract - B03,Resolved and Consumer Satisfied - SPF,Yes,,ECB Warning Issued,1
+Electronic Store - 001,Misrepresentation - M01,Referred to Hearing - RTH,No,11413,Violation Issued,1
+Home Improvement Contractor - 100,Misrepresentation - M01,Unable to Locate Business - ULV,NA,11566,Violation Issued,1
+Other,,No Consumer Response - NCR,NA,11209,No Violation Issued,1
+Misc Non-Food Retail - 817,Non-Delivery of Goods - N01,Cash Amount - AMT,Yes,11225,No Violation Issued,1
+Furniture Sales - 242,,Store Credit - SCR,Yes,11231,No Violation Issued,1
+Misc Non-Food Retail - 817,Exchange Goods/Contract Cancelled - E01,Advised to Sue - ATS,No,,No Violation Issued,1
+Electronic Store - 001,Misrepresentation - M01,No Satisfactory Agreement - NSA,No,11368,No Violation Issued,1
+Garage - 049,Surcharge/Overcharge - S02,No Consumer Response - NCR,NA,10011,No Violation Issued,1
+Garage - 049,Damaged Goods - D01,Advised to Sue - ATS,No,10016,No Violation Issued,1
+Garage - 049,Other - Z01,Bill Reduced - BLR,Yes,11374,Violation Issued,1
+Garage - 049,Damaged Goods - D01,Cash Amount - AMT,Yes,10001,No Violation Issued,1
+Secondhand Dealer Auto - 005,Billing Dispute - B02,Advised to Sue - ATS,No,11416,No Violation Issued,1
+Tow Truck Company - 124,Surcharge/Overcharge - S02,Cash Amount - AMT,Yes,11378,Pass,1
+Misc Non-Food Retail - 817,Exchange Goods/Contract Cancelled - E01,Goods Exchanged - GEX,Yes,11220,Violation Issued,1
+Tax Preparers - 891,Misrepresentation - M01,Advised to Sue - ATS,No,10017,No Violation Issued,1
+Tow Truck Company - 124,Damaged Goods - D01,Cash Amount - AMT,Yes,11231,Pass,1
+Secondhand Dealer Auto - 005,Surcharge/Overcharge - S02,Complaint Invalid - CIN,NA,11361,Violation Issued,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Consumer Took Action - CTA,No,10314,Violation Issued,1
+Tow Truck Company - 124,Misrepresentation - M01,Bill Reduced - BLR,Yes,10461,Out of Business,1
+Home Improvement Contractor - 100,Unlicensed,Advised to Sue - ATS,No,10467,No Violation Issued,1
+Electronic Store - 001,Misrepresentation - M01,No Satisfactory Preempted - NSP,NA,11432,Violation Issued,1
+Tax Preparers - 891,Refund Policy - R01,Advised to Sue - ATS,No,10460,No Evidence of Activity,1
+Home Improvement Contractor - 100,Breach of Contract - B03,Advised to Sue - ATS,No,11598,No Violation Issued,1
+Secondhand Dealer Auto - 005,Misrepresentation - M01,Resolved and Consumer Satisfied - SPF,Yes,10466,No Violation Issued,1
+Home Improvement Contractor - 100,Breach of Contract - B03,Cash Amount - AMT,Yes,11103,Closed,1
+Tow Truck Company - 124,Surcharge/Overcharge - S02,Cash Amount - AMT,Yes,11429,No Evidence of Activity,1
+Home Improvement Contractor - 100,Non-Delivery of Service - N02,Advised to Sue - ATS,No,10301,Violation Issued,1
+Home Improvement Contractor - 100,,Advised to Sue - ATS,No,11222,Violation Issued,1
+Home Improvement Contractor - 100,Breach of Contract - B03,Advised to Sue - ATS,No,11419,Violation Issued,1
+Home Improvement Contractor - 100,Breach of Contract - B03,No Business Response - NVR,No,11216,Violation Issued,1
+Electronic & Home Appliance Service Dealer - 115,Defective Goods - D02,Advised to Sue - ATS,No,11220,Out of Business,1
+Tax Preparers - 891,Misrepresentation - M01,Advised to Sue - ATS,No,11217,No Violation Issued,1
+Tax Preparers - 891,Advertising/Misleading - A02,No Business Response - NVR,No,11217,No Violation Issued,1
+Tow Truck Company - 124,Excessive Charges,Referred to Hearing - RTH,No,10461,Pass,1
+Retail Store - 820,,Resolved and Consumer Satisfied - SPF,Yes,10038,No Violation Issued,1
+Cabaret - 073,Breach of Contract - B03,No Business Response - NVR,No,11237,Out of Business,1
+Tow Truck Company - 124,Billing Dispute - B02,Cash Amount - AMT,Yes,11432,Violation Issued,1
+Funeral Homes - 888,Surcharge/Overcharge - S02,Referred to Outside - RTO,NA,11221,Out of Business,1
+Secondhand Dealer Auto - 005,Damaged Goods - D01,Advised to Sue - ATS,No,10475,Violation Issued,1
+Jewelry Store-Retail - 823,Exchange Goods/Contract Cancelled - E01,Unable to Locate Business - ULV,NA,10017,Unable to Locate,1
+Tow Truck Company - 124,Refund Policy - R01,Cash Amount - AMT,Yes,11354,Pass,1
+Dry Cleaners - 230,Lost Property - L02,Advised to Sue - ATS,No,10453,Violation Issued,1
+Furniture Sales - 242,Exchange Goods/Contract Cancelled - E01,Goods Exchanged - GEX,Yes,11373,Pass,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Goods Repaired - GRS,Yes,10461,No Violation Issued,1
+Dry Cleaners - 230,Lost Property - L02,Cash Amount - AMT,Yes,11223,No Violation Issued,1
+Furniture Sales - 242,Damaged Goods - D01,No Satisfactory Agreement - NSA,No,11797,No Violation Issued,1
+Garage - 049,Surcharge/Overcharge - S02,Bill Reduced - BLR,Yes,11225,No Violation Issued,1
+Jewelry Store-Retail - 823,Surcharge/Overcharge - S02,Resolved and Consumer Satisfied - SPF,Yes,10017,Fail,1
+Jewelry Store-Retail - 823,Misrepresentation - M01,Consumer Took Action - CTA,No,11225,Out of Business,1
+Jewelry Store-Retail - 823,Misrepresentation - M01,Unable to Locate Business - ULV,NA,,Out of Business,1
+Secondhand Dealer Auto - 005,Breach of Contract - B03,Cash Amount - AMT,Yes,11377,Violation Issued,1
+Retail Store - 820,Exchange Goods/Contract Cancelled - E01,No Satisfactory Agreement - NSA,No,11103,Pass,1
+Laundry - 064,Damaged Goods - D01,Resolved and Consumer Satisfied - SPF,Yes,10028,No Violation Issued,1
+Electronic & Home Appliance Service Dealer - 115,Misrepresentation - M01,Consumer Took Action - CTA,No,11214,Violation Issued,1
+Misc Non-Food Retail - 817,Refund Policy - R01,Cash Amount - AMT,Yes,10314,No Violation Issued,1
+Furniture Sales - 242,Exchange Goods/Contract Cancelled - E01,Cash Amount - AMT,Yes,11220,No Violation Issued,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Advised to Sue - ATS,No,11221,No Violation Issued,1
+Industry,Complaint Type,Complaint Result,Satisfaction,Business Zip,Inspection Result,1
+Jewelry Store-Retail - 823,Breach of Warranty - B04,Advised to Sue - ATS,No,11220,Out of Business,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Advised to Sue - ATS,No,11368,Violation Issued,1
+Dry Cleaners - 230,Non-Delivery of Service - N02,Advised to Sue - ATS,No,11105,No Violation Issued,1
+Secondhand Dealer Auto - 005,Damaged Goods - D01,Referred to Outside - RTO,NA,10456,Posting Order Served,1
+Dry Cleaners - 230,Non-Delivery of Goods - N01,Goods Received - GDR,Yes,10457,No Violation Issued,1
+Electronic Store - 001,Misrepresentation - M01,No Satisfactory Agreement - NSA,No,11354,No Violation Issued,1
+Garage - 049,Damaged Goods - D01,Goods Repaired - GRS,Yes,10459,Violation Issued,1
+Misc Non-Food Retail - 817,Surcharge/Overcharge - S02,Cash Amount - AMT,Yes,11357,Violation Issued,1
+Electronic Store - 001,Misrepresentation - M01,Goods Exchanged - GEX,Yes,11210,No Violation Issued,1
+Misc Non-Food Retail - 817,Surcharge/Overcharge - S02,Advised to Sue - ATS,No,10462,No Violation Issued,1
+Misc Non-Food Retail - 817,Exchange Goods/Contract Cancelled - E01,Advised to Sue - ATS,No,11220,No Violation Issued,1
+Tow Truck Company - 124,Misrepresentation - M01,Cash Amount - AMT,Yes,11417,Pass,1
+Home Improvement Contractor - 100,Non-Delivery of Service - N02,Advised to Sue - ATS,No,11757,Violation Issued,1
+Home Improvement Contractor - 100,Non-Delivery of Service - N02,Advised to Sue - ATS,No,11417,Violation Issued,1
+Secondhand Dealer Auto - 005,Damaged Goods - D01,Advised to Sue - ATS,No,11385,No Violation Issued,1
+Other,Misrepresentation - M01,Cash Amount - AMT,Yes,11220,No Violation Issued,1
+Misc Non-Food Retail - 817,Exchange Goods/Contract Cancelled - E01,Advised to Sue - ATS,No,10454,No Violation Issued,1
+Retail Store - 820,Non-Delivery of Goods - N01,Unable to Locate Business - ULV,NA,11204,Out of Business,1
+Booting Company - 126,Damaged Goods - D01,Referred to Hearing - RTH,No,11211,Pass,1
+Home Improvement Contractor - 100,Non-Delivery of Service - N02,No Business Response - NVR,No,11205,No Violation Issued,1
+Secondhand Dealer Auto - 005,Exchange Goods/Contract Cancelled - E01,Referred to Outside - RTO,NA,11417,No Violation Issued,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Advised to Sue - ATS,No,10535,Violation Issued,1
+Home Improvement Contractor - 100,Quality of Work - Q01,No Satisfactory Agreement - NSA,No,11426,No Evidence of Activity,1
+Electronic Store - 001,Exchange Goods/Contract Cancelled - E01,Store Credit - SCR,Yes,11225,Warning,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Advised to Sue - ATS,No,11223,Violation Issued,1
+Furniture Sales - 242,Non-Delivery of Goods - N01,Unable to Locate Business - ULV,NA,11218,Out of Business,1
+Misc Non-Food Retail - 817,Non-Delivery of Goods - N01,Credit Card Refund and/or Contract Cancelled - CRC,Yes,10014,Re-inspection,1
+Dry Cleaners - 230,Damaged Goods - D01,No Consumer Response - NCR,NA,11694,No Violation Issued,1
+Laundry Jobber - 066,Damaged Goods - D01,Goods Repaired - GRS,Yes,11238,Closed,1
+Supermarket - 819,Surcharge/Overcharge - S02,Cash Amount - AMT,Yes,11229,Pass,1
+Home Improvement Contractor - 100,Breach of Contract - B03,No Business Response - NVR,No,07662,Violation Issued,1
+Secondhand Dealer Auto - 005,Misrepresentation - M01,Cash Amount - AMT,Yes,11228,No Violation Issued,1
+Secondhand Dealer Auto - 005,Billing Dispute - B02,Resolved and Consumer Satisfied - SPF,Yes,11203,Violation Issued,1
+Tow Truck Company - 124,Misrepresentation - M01,No Business Response - NVR,No,11417,No Violation Issued,1
+Home Improvement Contractor - 100,,Referred to Hearing - RTH,No,11412,No Evidence of Activity,1
+Home Improvement Contractor - 100,Breach of Contract - B03,Goods Repaired - GRS,Yes,11223,No Violation Issued,1
+Tow Truck Company - 124,Surcharge/Overcharge - S02,Cash Amount - AMT,Yes,11228,Pass,1
+Secondhand Dealer Auto - 005,Exchange Goods/Contract Cancelled - E01,Bill Reduced - BLR,Yes,11235,No Violation Issued,1
+Electronic Store - 001,Misrepresentation - M01,Goods Exchanged - GEX,Yes,11229,Violation Issued,1
+Electronic Store - 001,Exchange Goods/Contract Cancelled - E01,Cash Amount - AMT,Yes,10027,No Evidence of Activity,1
+Supermarket - 819,Surcharge/Overcharge - S02,Resolved and Consumer Satisfied - SPF,Yes,11367,Violation Issued,1
+Electronic Store - 001,Exchange Goods/Contract Cancelled - E01,Cash Amount - AMT,Yes,11355,No Evidence of Activity,1
+Electronic Store - 001,Misrepresentation - M01,Out of Business - OOB,NA,11580,Out of Business,1
+Laundry - 064,Outstanding Judgment - J01,Referred to Outside - RTO,NA,10035,No Violation Issued,1
+Misc Non-Food Retail - 817,Wrong Goods - W01,Complaint Invalid - CIN,NA,10475,Violation Issued,1
+Tow Truck Company - 124,Refund Policy - R01,Referred to Outside - RTO,NA,11206,Out of Business,1
+Secondhand Dealer Auto - 005,Damaged Goods - D01,Resolved and Consumer Satisfied - SPF,Yes,11372,No Violation Issued,1
+Dry Cleaners - 230,Damaged Goods - D01,No Satisfactory Agreement - NSA,No,11367,No Violation Issued,1
+Retail Store - 820,Misrepresentation - M01,Store Credit - SCR,Yes,53051,No Violation Issued,1
+Pawnbroker - 080,Non-Delivery of Goods - N01,Goods Received - GDR,Yes,11417,Out of Business,1
+Restaurant - 818,Surcharge/Overcharge - S02,Resolved and Consumer Satisfied - SPF,Yes,11222,No Violation Issued,1
+Home Improvement Contractor - 100,Non-Delivery of Service - N02,Advised to Sue - ATS,No,11418,Violation Issued,1
+Furniture Sales - 242,Wrong Goods - W01,No Satisfactory Agreement - NSA,No,11234,No Violation Issued,1
+Jewelry Store-Retail - 823,Exchange Goods/Contract Cancelled - E01,No Satisfactory Agreement - NSA,No,10036,No Violation Issued,1
+Jewelry Store-Retail - 823,Exchange Goods/Contract Cancelled - E01,Bill Reduced - BLR,Yes,11103,No Violation Issued,1
+Restaurant - 818,Surcharge/Overcharge - S02,Resolved and Consumer Satisfied - SPF,Yes,10034,No Evidence of Activity,1
+Furniture Sales - 242,Refund Policy - R01,Out of Business - OOB,NA,11203,Out of Business,1
+Dry Cleaners - 230,Lost Property - L02,No Business Response - NVR,No,10023,Out of Business,1
+Home Improvement Contractor - 100,Non-Delivery of Service - N02,No Business Response - NVR,No,11427,No Violation Issued,1
+Restaurant - 818,Surcharge/Overcharge - S02,Resolved and Consumer Satisfied - SPF,Yes,10036,No Violation Issued,1
+Garage - 049,Surcharge/Overcharge - S02,Cash Amount - AMT,Yes,11101,No Violation Issued,1
+Home Improvement Contractor - 100,Non-Delivery of Service - N02,Resolved and Consumer Satisfied - SPF,Yes,11226,No Violation Issued,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Advised to Sue - ATS,No,11234,No Violation Issued,1
+Dry Cleaners - 230,Lost Property - L02,Cash Amount - AMT,Yes,10032,No Violation Issued,1
+Dry Cleaners - 230,Non-Delivery of Service - N02,Goods Repaired - GRS,Yes,10302,No Violation Issued,1
+Laundry - 064,Non-Delivery of Goods - N01,Bill Reduced - BLR,Yes,11231,No Violation Issued,1
+Dry Cleaners - 230,Non-Delivery of Service - N02,Cash Amount - AMT,Yes,11209,No Violation Issued,1
+Garage - 049,Damaged Goods - D01,Consumer Withdrew Complaint - CWC,NA,10023,No Violation Issued,1
+Furniture Sales - 242,Damaged Goods - D01,Advised to Sue - ATS,No,11216,No Violation Issued,1
+Misc Non-Food Retail - 817,Misrepresentation - M01,No Satisfactory Agreement - NSA,No,11419,No Violation Issued,1
+Misc Non-Food Retail - 817,Exchange Goods/Contract Cancelled - E01,Goods Exchanged - GEX,Yes,11419,No Violation Issued,1
+Parking Lot - 050,Damage / Estimate,Resolved and Consumer Satisfied - SPF,Yes,,No Violation Issued,1
+Dry Cleaners - 230,Wrong Goods - W01,Cash Amount - AMT,Yes,11355,No Violation Issued,1
+Locksmith - 062,Surcharge/Overcharge - S02,Goods Repaired - GRS,Yes,11235,Licensed,1
+Home Improvement Contractor - 100,Quality of Work - Q01,No Business Response - NVR,No,11236,No Violation Issued,1
+Misc Non-Food Retail - 817,Damaged Goods - D01,Advised to Sue - ATS,No,10002,Violation Issued,1
+Dry Cleaners - 230,Damaged Goods - D01,Goods Repaired - GRS,Yes,11214,No Violation Issued,1
+Dry Cleaners - 230,Lost Property - L02,Cash Amount - AMT,Yes,10030,No Violation Issued,1
+Dry Cleaners - 230,,Store Credit - SCR,Yes,11229,Pass,1
+Dry Cleaners - 230,Wrong Goods - W01,Consumer Withdrew Complaint - CWC,NA,11229,No Violation Issued,1
+Electronic Store - 001,Exchange Goods/Contract Cancelled - E01,Store Credit - SCR,Yes,11104,No Violation Issued,1
+Tow Truck Company - 124,Billing Dispute - B02,Cash Amount - AMT,Yes,10451,Pass,1
+Garage - 049,Non-Delivery of Goods - N01,Referred to Outside - RTO,NA,10032,No Violation Issued,1
+Misc Non-Food Retail - 817,Misrepresentation - M01,Cash Amount - AMT,Yes,10037,Violation Issued,1
+Misc Non-Food Retail - 817,Misrepresentation - M01,Cash Amount - AMT,Yes,11234,No Violation Issued,1
+Misc Non-Food Retail - 817,Exchange Goods/Contract Cancelled - E01,Advised to Sue - ATS,No,11372,Violation Issued,1
+Jewelry Store-Retail - 823,Exchange Goods/Contract Cancelled - E01,No Satisfactory Preempted - NSP,NA,10036,No Violation Issued,1
+Retail Store - 820,,Cash Amount - AMT,Yes,10012,No Violation Issued,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Advised to Sue - ATS,No,11210,Violation Issued,1
+Secondhand Dealer Auto - 005,Damaged Goods - D01,Consumer Took Action - CTA,No,10461,No Violation Issued,1
+Home Improvement Contractor - 100,Exchange Goods/Contract Cancelled - E01,Advised to Sue - ATS,No,11234,Violation Issued,1
+Home Improvement Contractor - 100,Breach of Contract - B03,Advised to Sue - ATS,No,11356,Violation Issued,1
+Dry Cleaners - 230,Damaged Goods - D01,No Consumer Response - NCR,NA,10033,No Violation Issued,1
+Secondhand Dealer Auto - 005,Exchange Goods/Contract Cancelled - E01,Advised to Sue - ATS,No,,Out of Business,1
+Travel Agency - 440,Surcharge/Overcharge - S02,No Satisfactory Agreement - NSA,No,11375,Fail,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Unable to Locate Business - ULV,NA,11021,Violation Issued,1
+Misc Non-Food Retail - 817,Refund Policy - R01,Store Credit - SCR,Yes,11234,No Violation Issued,1
+Home Improvement Contractor - 100,,Advised to Sue - ATS,No,11420,Violation Issued,1
+Secondhand Dealer Auto - 005,Misrepresentation - M01,Advised to Sue - ATS,No,,No Violation Issued,1
+Furniture Sales - 242,Exchange Goods/Contract Cancelled - E01,Goods Exchanged - GEX,Yes,11212,No Violation Issued,1
+Laundry - 064,Outstanding Judgment - J01,Cash Amount - AMT,Yes,11206,No Violation Issued,1
+Dry Cleaners - 230,Damaged Goods - D01,Advised to Sue - ATS,No,11373,Pass,1
+Furniture Sales - 242,Exchange Goods/Contract Cancelled - E01,Credit Card Refund and/or Contract Cancelled - CRC,Yes,11421,Violation Issued,1
+Other,Misrepresentation - M01,Advised to Sue - ATS,No,11385,No Violation Issued,1
+Retail Store - 820,Exchange Goods/Contract Cancelled - E01,Store Credit - SCR,Yes,11235,No Violation Issued,1
+Misc Non-Food Retail - 817,Refund Policy - R01,No Satisfactory Agreement - NSA,No,11238,No Violation Issued,1
+Secondhand Dealer Auto - 005,Misrepresentation - M01,Advised to Sue - ATS,No,11101,Warning,1
+Home Improvement Contractor - 100,Breach of Contract - B03,Resolved and Consumer Satisfied - SPF,Yes,10022,Pass,1
+Locksmith - 062,Billing Dispute - B02,Goods Repaired - GRS,Yes,11230,No Violation Issued,1
+Locksmith - 062,Misrepresentation - M01,Credit Card Refund and/or Contract Cancelled - CRC,Yes,10011,Violation Issued,1
+Misc Non-Food Retail - 817,Exchange Goods/Contract Cancelled - E01,Cash Amount - AMT,Yes,11355,Violation Issued,1
+Dealer In Products For The Disabled - 119,Non-Delivery of Goods - N01,Advised to Sue - ATS,No,11218,No Violation Issued,1
+Misc Non-Food Retail - 817,Surcharge/Overcharge - S02,Cash Amount - AMT,Yes,28117,Violation Issued,1
+Appliances - 244,Refund Policy - R01,Credit Card Refund and/or Contract Cancelled - CRC,Yes,28117,No Violation Issued,1
+Garage - 049,Surcharge/Overcharge - S02,Cash Amount - AMT,Yes,10002,Violation Issued,1
+Health Spa - 839,,Advised to Sue - ATS,No,10075,No Violation Issued,1
+Dry Cleaners - 230,Damaged Goods - D01,Advised to Sue - ATS,No,11204,No Violation Issued,1
+Dry Cleaners - 230,Gender Pricing,Resolved and Consumer Satisfied - SPF,Yes,11220,No Violation Issued,1
+Other,,Unable to Locate Business - ULV,NA,11226,Out of Business,1
+Furniture Sales - 242,Misrepresentation - M01,Advised to Sue - ATS,No,10027,Violation Issued,1
+Electronic Store - 001,Defective Goods - D02,Advised to Sue - ATS,No,11368,No Violation Issued,1
+Secondhand Dealer Auto - 005,Breach of Contract - B03,Advised to Sue - ATS,No,11101,No Violation Issued,1
+Other,Misrepresentation - M01,Complaint Invalid - CIN,NA,11023,No Violation Issued,1
+Secondhand Dealer [General] - 006,Misrepresentation - M01,Advised to Sue - ATS,No,11375,No Violation Issued,1
+Dry Cleaners - 230,Damaged Goods - D01,Cash Amount - AMT,Yes,10025,No Violation Issued,1
+Tow Truck Company - 124,Billing Dispute - B02,Cash Amount - AMT,Yes,11413,Pass,1
+Mailorder Misc - 319,,Credit Card Refund and/or Contract Cancelled - CRC,Yes,10001,No Evidence of Activity,1
+Electronic & Home Appliance Service Dealer - 115,Advertising/General - A01,Resolved and Consumer Satisfied - SPF,Yes,11355,No Evidence of Activity,1
+Furniture Sales - 242,Damaged Goods - D01,Cash Amount - AMT,Yes,11354,No Violation Issued,1
+Fuel Oil Dealer - 814,Short measure,Bill Reduced - BLR,Yes,10462,Fail,1
+Secondhand Dealer Auto - 005,Damaged Goods - D01,Goods Repaired - GRS,Yes,11101,Warning,1
+Secondhand Dealer Auto - 005,Advertising/General - A01,Complaint Invalid - CIN,NA,11101,Posting Order Served,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Resolved and Consumer Satisfied - SPF,Yes,10306,Violation Issued,1
+Secondhand Dealer Auto - 005,Misrepresentation - M01,Resolved and Consumer Satisfied - SPF,Yes,10306,Violation Issued,1
+Secondhand Dealer Auto - 005,Misrepresentation - M01,Referred to Outside - RTO,NA,10019,No Violation Issued,1
+Garage - 049,Advertising/General - A01,No Consumer Response - NCR,NA,10016,Violation Issued,1
+Garage - 049,Misrepresentation - M01,Consumer Took Action - CTA,No,10172,Violation Issued,1
+Home Improvement Contractor - 100,Non-Delivery of Service - N02,Advised to Sue - ATS,No,10455,Violation Issued,1
+Jewelry Store-Retail - 823,Exchange Goods/Contract Cancelled - E01,Unable to Locate Business - ULV,NA,11237,Out of Business,1
+Misc Non-Food Retail - 817,Surcharge/Overcharge - S02,Credit Card Refund and/or Contract Cancelled - CRC,Yes,11354,Pass,1
+Misc Non-Food Retail - 817,Exchange Goods/Contract Cancelled - E01,Goods Exchanged - GEX,Yes,11354,No Violation Issued,1
+Secondhand Dealer Auto - 005,Exchange Goods/Contract Cancelled - E01,Credit Card Refund and/or Contract Cancelled - CRC,Yes,11432,Violation Issued,1
+Electronic Store - 001,Surcharge/Overcharge - S02,Cash Amount - AMT,Yes,10036,Out of Business,1
+Garage - 049,Damaged Goods - D01,Cash Amount - AMT,Yes,10016,No Violation Issued,1
+Electronic Store - 001,Defective Goods - D02,Cash Amount - AMT,Yes,10001,No Violation Issued,1
+Home Improvement Contractor - 100,,Referred to Hearing - RTH,No,10314,No Evidence of Activity,1
+Secondhand Dealer Auto - 005,Bait & Switch - B01,Advised to Sue - ATS,No,11377,Warning,1
+Restaurant - 818,Advertising/General - A01,Resolved and Consumer Satisfied - SPF,Yes,11432,No Violation Issued,1
+Restaurant - 818,Exchange Goods/Contract Cancelled - E01,Resolved and Consumer Satisfied - SPF,Yes,60523,No Violation Issued,1
+Dry Cleaners - 230,Non-Delivery of Service - N02,Consumer Took Action - CTA,No,10026,Pass,1
+Funeral Homes - 888,Surcharge/Overcharge - S02,Referred to Outside - RTO,NA,10030,Out of Business,1
+Electronic Store - 001,Exchange Goods/Contract Cancelled - E01,Goods Exchanged - GEX,Yes,11358,Violation Issued,1
+Home Improvement Contractor - 100,Non-Delivery of Service - N02,Cash Amount - AMT,Yes,10301,No Evidence of Activity,1
+Electronic & Home Appliance Service Dealer - 115,Non-Delivery of Goods - N01,Advised to Sue - ATS,No,10312,Unable to Locate,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Advised to Sue - ATS,No,11590,Violation Issued,1
+Home Improvement Contractor - 100,Misrepresentation - M01,Advised to Sue - ATS,No,11355,Violation Issued,1
+Home Improvement Contractor - 100,,Cash Amount - AMT,Yes,10463,Violation Issued,1
+Laundry - 064,Damaged Goods - D01,No Satisfactory Agreement - NSA,No,11206,Pass,1
+Electronic Store - 001,Defective Goods - D02,Advised to Sue - ATS,No,,Violation Issued,1
+Dry Cleaners - 230,Damaged Goods - D01,No Business Response - NVR,No,11203,No Violation Issued,1
+Secondhand Dealer Auto - 005,Damaged Goods - D01,Store Credit - SCR,Yes,10019,No Violation Issued,1
+Parking Lot - 050,Misrepresentation - M01,Cash Amount - AMT,Yes,10016,No Violation Issued,1
+Secondhand Dealer Auto - 005,Breach of Contract - B03,Resolved and Consumer Satisfied - SPF,Yes,11428,No Violation Issued,1
+Electronic Store - 001,Refund Policy - R01,No Satisfactory Preempted - NSP,NA,10033,Violation Issued,1
+Pawnbroker - 080,Lost Property - L02,Goods Received - GDR,Yes,11413,No Violation Issued,1
+Electronic Store - 001,Damaged Goods - D01,Advised to Sue - ATS,No,11105,Violation Issued,1
+Electronic Store - 001,Advertising/Misleading - A02,Store Credit - SCR,Yes,19808,No Evidence of Activity,1
+Electronic Store - 001,Misrepresentation - M01,Store Credit - SCR,Yes,10032,No Violation Issued,1
+Electronic Store - 001,Advertising/Misleading - A02,No Satisfactory Agreement - NSA,No,11208,No Violation Issued,1
+Tow Truck Company - 124,Misrepresentation - M01,Goods Repaired - GRS,Yes,11205,Violation Issued,1
+Secondhand Dealer Auto - 005,Misrepresentation - M01,Advised to Sue - ATS,No,11417,No Violation Issued,1
+Electronic Store - 001,Misrepresentation - M01,Advised to Sue - ATS,No,11374,Violation Issued,1
+Pawnbroker - 080,Exchange Goods/Contract Cancelled - E01,Advised to Sue - ATS,No,,No Violation Issued,1
+Electronic Store - 001,Advertising/Misleading - A02,Credit Card Refund and/or Contract Cancelled - CRC,Yes,10459,No Violation Issued,1
+Misc Non-Food Retail - 817,Non-Delivery of Goods - N01,No Consumer Response - NCR,NA,11210,No Violation Issued,1
+Electronic Store - 001,,No Consumer Response - NCR,NA,11223,No Violation Issued,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Resolved and Consumer Satisfied - SPF,Yes,10306,Licensed,1
+Jewelry Store-Retail - 823,Damaged Goods - D01,Goods Repaired - GRS,Yes,11385,No Violation Issued,1
+Other,Damaged Goods - D01,Goods Exchanged - GEX,Yes,10014,No Violation Issued,1
+Electronic Store - 001,Breach of Warranty - B04,Advised to Sue - ATS,No,11232,Violation Issued,1
+Misc Non-Food Retail - 817,Advertising/General - A01,Resolved and Consumer Satisfied - SPF,Yes,43026,No Violation Issued,1
+Electronic Store - 001,,Complaint Invalid - CIN,NA,,Violation Issued,1
+Secondhand Dealer Auto - 005,Billing Dispute - B02,Goods Repaired - GRS,Yes,11379,No Violation Issued,1
+Home Improvement Contractor - 100,Breach of Contract - B03,Advised to Sue - ATS,No,11756,Violation Issued,1
+Electronic Store - 001,Exchange Goods/Contract Cancelled - E01,Goods Exchanged - GEX,Yes,11226,No Violation Issued,1
+Garage - 049,Outstanding Judgment - J01,Agency Collected Judgement - ACJ,Yes,10021,Unable to Locate,1
+Dry Cleaners - 230,Damaged Goods - D01,Cash Amount - AMT,Yes,10016,Out of Business,1
+Tow Truck Company - 124,Contact Sign Not Posted,Cash Amount - AMT,Yes,10022,Pass,1
+Home Improvement Contractor - 100,Unlicensed,Agency Collected Judgement - ACJ,Yes,11369,No Violation Issued,1
+Misc Non-Food Retail - 817,Non-Delivery of Goods - N01,Resolved and Consumer Satisfied - SPF,Yes,10033,No Violation Issued,1
+Tow Truck Company - 124,Damaged Goods - D01,Referred to Outside - RTO,NA,11208,Violation Issued,1
+Jewelry Store-Retail - 823,Refund Policy - R01,Consumer Withdrew Complaint - CWC,NA,11372,No Violation Issued,1
+Home Improvement Contractor - 100,Non-Delivery of Service - N02,Resolved and Consumer Satisfied - SPF,Yes,10314,No Violation Issued,1
+Garage - 049,Damaged Goods - D01,Referred to Hearing - RTH,No,10028,Violation Issued,1
+Secondhand Dealer Auto - 005,Misrepresentation - M01,No Satisfactory Agreement - NSA,No,11361,No Violation Issued,1
+Home Improvement Contractor - 100,Breach of Contract - B03,Consumer Took Action - CTA,No,11238,Violation Issued,1
+Dry Cleaners - 230,Damaged Goods - D01,Advised to Sue - ATS,No,11354,No Violation Issued,1
+Home Improvement Contractor - 100,Exchange Goods/Contract Cancelled - E01,No Business Response - NVR,No,11214,Violation Issued,1
+Home Improvement Contractor - 100,Quality of Work - Q01,No Business Response - NVR,No,11377,Violation Issued,1
+Secondhand Dealer Auto - 005,Billing Dispute - B02,Cash Amount - AMT,Yes,11101,Violation Issued,1
+Home Improvement Contractor - 100,Exchange Goods/Contract Cancelled - E01,Referred to Hearing - RTH,No,10301,No Violation Issued,1
+Misc Non-Food Retail - 817,Misrepresentation - M01,No Consumer Response - NCR,NA,98006,No Violation Issued,1
+Electronic Store - 001,Defective Goods - D02,Advised to Sue - ATS,No,10002,No Violation Issued,1
+Electronic Store - 001,Surcharge/Overcharge - S02,Cash Amount - AMT,Yes,10032,No Violation Issued,1
+Electronic Store - 001,Exchange Goods/Contract Cancelled - E01,Credit Card Refund and/or Contract Cancelled - CRC,Yes,11385,Violation Issued,1
+Electronic Store - 001,Advertising/Misleading - A02,Credit Card Refund and/or Contract Cancelled - CRC,Yes,87176,No Violation Issued,1
+Electronic Store - 001,Misrepresentation - M01,No Satisfactory Agreement - NSA,No,10018,No Violation Issued,1
+Electronic Store - 001,Breach of Contract - B03,No Consumer Response - NCR,NA,10013,Out of Business,1
+Furniture Sales - 242,Misrepresentation - M01,Goods Received - GDR,Yes,11208,No Violation Issued,1
+Dry Cleaners - 230,Damaged Goods - D01,Advised to Sue - ATS,No,11432,Violation Issued,1
+Jewelry Store-Retail - 823,Misrepresentation - M01,Store Credit - SCR,Yes,10036,No Violation Issued,1
+Pawnbroker - 080,Exchange Goods/Contract Cancelled - E01,Goods Received - GDR,Yes,10036,Pass,1
+Storage Warehouse - 120,Billing Dispute - B02,Bill Reduced - BLR,Yes,11101,No Violation Issued,1
+Restaurant - 818,Surcharge/Overcharge - S02,Resolved and Consumer Satisfied - SPF,Yes,10451,No Violation Issued,1
+Misc Non-Food Retail - 817,Exchange Goods/Contract Cancelled - E01,Unable to Locate Business - ULV,NA,11354,No Violation Issued,1
+Laundry - 064,Lost Property - L02,Cash Amount - AMT,Yes,10014,No Violation Issued,1
+Secondhand Dealer Auto - 005,Defective Goods - D02,Consumer Took Action - CTA,No,11223,No Evidence of Activity,1
+Tow Truck Company - 124,Surcharge/Overcharge - S02,Advised to Sue - ATS,No,11434,No Violation Issued,1
+Secondhand Dealer Auto - 005,Misrepresentation - M01,Cash Amount - AMT,Yes,11101,Violation Issued,1
+Secondhand Dealer Auto - 005,Damaged Goods - D01,Advised to Sue - ATS,No,10452,Violation Issued,1
+Dealer In Products For The Disabled - 119,Misrepresentation - M01,Resolved and Consumer Satisfied - SPF,Yes,11373,No Violation Issued,1
+Garage - 049,Outstanding Judgment - J01,Agency Collected Judgement - ACJ,Yes,10011,Violation Issued,1
+Garage - 049,Advertising/General - A01,Store Credit - SCR,Yes,10036,Violation Issued,1
+Garage - 049,Surcharge/Overcharge - S02,Resolved and Consumer Satisfied - SPF,Yes,10128,Violation Issued,1
+Garage - 049,Damaged Goods - D01,Goods Repaired - GRS,Yes,10017,Violation Issued,1
+Garage - 049,Surcharge/Overcharge - S02,Credit Card Refund and/or Contract Cancelled - CRC,Yes,10022,Violation Issued,1
+Parking Lot - 050,,Referred to Hearing - RTH,No,10017,Violation Issued,1
+Dry Cleaners - 230,Non-Delivery of Service - N02,Cash Amount - AMT,Yes,11213,No Violation Issued,1
+Pawnbroker - 080,Exchange Goods/Contract Cancelled - E01,Advised to Sue - ATS,No,10459,Pass,1
+Tow Truck Company - 124,Billing Dispute - B02,Cash Amount - AMT,Yes,11356,Pass,1
+Tow Truck Company - 124,Surcharge/Overcharge - S02,Referred to Outside - RTO,NA,11354,Pass,1
+Home Improvement Contractor - 100,Non-Delivery of Service - N02,Resolved and Consumer Satisfied - SPF,Yes,11434,Violation Issued,1
+Appliances - 244,Refund Policy - R01,Cash Amount - AMT,Yes,11222,No Violation Issued,1
+Home Improvement Contractor - 100,Damaged Goods - D01,Goods Repaired - GRS,Yes,11420,No Violation Issued,1
+Electronic Store - 001,Misrepresentation - M01,Goods Received - GDR,Yes,10018,Out of Business,1
+Garage - 049,,Cash Amount - AMT,Yes,10016,No Violation Issued,1
+Misc Non-Food Retail - 817,Surcharge/Overcharge - S02,Resolved and Consumer Satisfied - SPF,Yes,10027,No Violation Issued,1
+Misc Non-Food Retail - 817,Exchange Goods/Contract Cancelled - E01,Advised to Sue - ATS,No,11218,No Violation Issued,1
+Furniture Sales - 242,Advertising/Misleading - A02,Advised to Sue - ATS,No,,Violation Issued,1
+Furniture Sales - 242,Misrepresentation - M01,Goods Received - GDR,Yes,11577,No Violation Issued,1
+Furniture Sales - 242,Damaged Goods - D01,Unable to Locate Business - ULV,NA,11432,Out of Business,1
+Electronic Store - 001,Advertising/Misleading - A02,No Satisfactory Agreement - NSA,No,11368,No Violation Issued,1
+Dry Cleaners - 230,Damaged Goods - D01,No Satisfactory Preempted - NSP,NA,11358,Violation Issued,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Agency Collected Judgement - ACJ,Yes,02322,No Evidence of Activity,1
+Dealer In Products For The Disabled - 119,Exchange Goods/Contract Cancelled - E01,No Satisfactory Agreement - NSA,No,11366,No Violation Issued,1
+Employment Agency - 034,Non-Delivery of Service - N02,Unable to Locate Business - ULV,NA,10001,Unable to Locate,1
+Electronic Store - 001,Exchange Goods/Contract Cancelled - E01,No Satisfactory Preempted - NSP,NA,11103,Warning,1
+Dry Cleaners - 230,Non-Delivery of Service - N02,Advised to Sue - ATS,No,07032,No Violation Issued,1
+Electronic Store - 001,Non-Delivery of Goods - N01,No Satisfactory Preempted - NSP,NA,10470,Violation Issued,1
+Secondhand Dealer Auto - 005,Misrepresentation - M01,Cash Amount - AMT,Yes,11432,No Violation Issued,1
+Electronic & Home Appliance Service Dealer - 115,Non-Delivery of Service - N02,Resolved and Consumer Satisfied - SPF,Yes,11368,Violation Issued,1
+Laundry - 064,Damaged Goods - D01,Cash Amount - AMT,Yes,10016,Pass,1
+Furniture Sales - 242,Non-Delivery of Service - N02,Out of Business - OOB,NA,10472,Out of Business,1
+Retail Store - 820,Defective Goods - D02,Credit Card Refund and/or Contract Cancelled - CRC,Yes,11230,No Violation Issued,1
+Electronic Store - 001,Breach of Contract - B03,Advised to Sue - ATS,No,10033,No Violation Issued,1
+Furniture Sales - 242,Non-Delivery of Goods - N01,Unable to Locate Business - ULV,NA,10463,Out of Business,1
+Home Improvement Contractor - 100,Breach of Contract - B03,Goods Repaired - GRS,Yes,11210,No Violation Issued,1
+Dry Cleaners - 230,Non-Delivery of Service - N02,Resolved and Consumer Satisfied - SPF,Yes,11435,No Violation Issued,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Advised to Sue - ATS,No,11234,Violation Issued,1
+Misc Non-Food Retail - 817,Misrepresentation - M01,No Business Response - NVR,No,11220,Closed,1
+Home Improvement Contractor - 100,Breach of Contract - B03,Cash Amount - AMT,Yes,11215,Violation Issued,1
+Dry Cleaners - 230,Non-Delivery of Goods - N01,Unable to Locate Business - ULV,NA,10453,Out of Business,1
+Furniture Sales - 242,Damaged Goods - D01,Goods Exchanged - GEX,Yes,11207,No Violation Issued,1
+Parking Lot - 050,Misrepresentation - M01,Resolved and Consumer Satisfied - SPF,Yes,10704,No Violation Issued,1
+Dry Cleaners - 230,Non-Delivery of Service - N02,Cash Amount - AMT,Yes,10019,Pass,1
+Misc Non-Food Retail - 817,Exchange Goods/Contract Cancelled - E01,Consumer Withdrew Complaint - CWC,NA,11209,No Violation Issued,1
+Appliances - 244,Defective Goods - D02,Goods Exchanged - GEX,Yes,11214,No Violation Issued,1
+Dry Cleaners - 230,Damaged Goods - D01,Cash Amount - AMT,Yes,10310,No Violation Issued,1
+Dry Cleaners - 230,Wrong Goods - W01,No Satisfactory Agreement - NSA,No,,Violation Issued,1
+Tow Truck Company - 124,Refund Policy - R01,Referred to Hearing - RTH,No,11435,Pass,1
+Secondhand Dealer Auto - 005,Non-Delivery of Goods - N01,No Business Response - NVR,No,11101,Out of Business,1
+Employment Agency - 034,Non-Delivery of Service - N02,Unable to Locate Business - ULV,NA,10004,Unable to Locate,1
+Wearing Apparel - 450,Surcharge/Overcharge - S02,Complaint Invalid - CIN,NA,10001,No Violation Issued,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Goods Repaired - GRS,Yes,11416,No Evidence of Activity,1
+Dry Cleaners - 230,Non-Delivery of Goods - N01,Unable to Locate Business - ULV,NA,11423,No Evidence of Activity,1
+Misc Non-Food Retail - 817,Misrepresentation - M01,Referred to Outside - RTO,NA,11362,Pass,1
+Secondhand Dealer Auto - 005,Exchange Goods/Contract Cancelled - E01,Advised to Sue - ATS,No,10469,No Violation Issued,1
+Employment Agency - 034,Refund Policy - R01,Unable to Locate Business - ULV,NA,10036,Unable to Locate,1
+Other,Billing Dispute - B02,Resolved and Consumer Satisfied - SPF,Yes,10036,Out of Business,1
+Electronic Store - 001,Misrepresentation - M01,Cash Amount - AMT,Yes,07059,Violation Issued,1
+Health Spa - 839,Misrepresentation - M01,Advised to Sue - ATS,No,10001,No Violation Issued,1
+Health Spa - 839,Billing Dispute - B02,Advised to Sue - ATS,No,10001,Out of Business,1
+Parking Lot - 050,Damage / Estimate,Resolved and Consumer Satisfied - SPF,Yes,10003,Violation Issued,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Advised to Sue - ATS,No,10314,Violation Issued,1
+Misc Non-Food Retail - 817,Misrepresentation - M01,Referred to Outside - RTO,NA,11224,No Evidence of Activity,1
+Dry Cleaners - 230,,No Consumer Response - NCR,NA,10011,No Violation Issued,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Advised to Sue - ATS,No,11218,No Violation Issued,1
+Garage - 049,Surcharge/Overcharge - S02,Cash Amount - AMT,Yes,10016,Violation Issued,1
+Furniture Sales - 242,,No Business Response - NVR,No,11204,No Violation Issued,1
+Tow Truck Company - 124,Billing Dispute - B02,Cash Amount - AMT,Yes,10466,Pass,1
+Electronic Store - 001,Breach of Contract - B03,Referred to Outside - RTO,NA,10013,No Violation Issued,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Referred to Hearing - RTH,No,10024,No Evidence of Activity,1
+Electronic Store - 001,Exchange Goods/Contract Cancelled - E01,Goods Exchanged - GEX,Yes,,No Violation Issued,1
+Auto Rental - 213,Breach of Contract - B03,Unable to Locate Business - ULV,NA,10467,Out of Business,1
+Garage - 049,Damaged Goods - D01,Advised to Sue - ATS,No,10022,Violation Issued,1
+Parking Lot - 050,,Advised to Sue - ATS,No,10018,No Evidence of Activity,1
+Furniture Sales - 242,Non-Delivery of Goods - N01,No Satisfactory Agreement - NSA,No,10459,Out of Business,1
+Misc Non-Food Retail - 817,Damaged Goods - D01,No Business Response - NVR,No,11432,Out of Business,1
+Electronic Store - 001,Advertising/Misleading - A02,No Satisfactory Agreement - NSA,No,10018,No Violation Issued,1
+Furniture Sales - 242,Advertising/Misleading - A02,Out of Business - OOB,NA,10459,Out of Business,1
+Electronic Store - 001,Exchange Goods/Contract Cancelled - E01,Advised to Sue - ATS,No,10475,No Violation Issued,1
+Misc Non-Food Retail - 817,Exchange Goods/Contract Cancelled - E01,Advised to Sue - ATS,No,11222,No Violation Issued,1
+Garage - 049,Misrepresentation - M01,Complaint Invalid - CIN,NA,10128,No Violation Issued,1
+Misc Non-Food Retail - 817,Non-Delivery of Goods - N01,Advised to Sue - ATS,No,11235,No Violation Issued,1
+Electronic Store - 001,Surcharge/Overcharge - S02,Credit Card Refund and/or Contract Cancelled - CRC,Yes,10018,Violation Issued,1
+Garage - 049,Surcharge/Overcharge - S02,Resolved and Consumer Satisfied - SPF,Yes,10023,Violation Issued,1
+Employment Agency - 034,Exchange Goods/Contract Cancelled - E01,Out of Business - OOB,NA,10004,Out of Business,1
+Home Improvement Contractor - 100,Breach of Contract - B03,Advised to Sue - ATS,No,10308,No Violation Issued,1
+Catering Establishment - 075,,No Satisfactory Preempted - NSP,NA,10014,Violation Issued,1
+Garage - 049,Surcharge/Overcharge - S02,Cash Amount - AMT,Yes,10166,No Violation Issued,1
+Electronic Store - 001,Surcharge/Overcharge - S02,Credit Card Refund and/or Contract Cancelled - CRC,Yes,10017,No Violation Issued,1
+Dry Cleaners - 230,Damaged Goods - D01,Advised to Sue - ATS,No,11367,Violation Issued,1
+Home Improvement Contractor - 100,Quality of Work - Q01,No Business Response - NVR,No,11218,Violation Issued,1
+Misc Non-Food Retail - 817,Exchange Goods/Contract Cancelled - E01,No Satisfactory Agreement - NSA,No,11224,Out of Business,1
+Other,,Resolved and Consumer Satisfied - SPF,Yes,11229,Unable to Locate,1
+Funeral Homes - 888,Misrepresentation - M01,Advised to Sue - ATS,No,10462,Violation Issued,1
+Home Improvement Contractor - 100,Quality of Work - Q01,No Business Response - NVR,No,10302,Violation Issued,1
+Home Improvement Contractor - 100,Non-Delivery of Goods - N01,Advised to Sue - ATS,No,11436,Violation Issued,1
+Jewelry Store-Retail - 823,Exchange Goods/Contract Cancelled - E01,Consumer Withdrew Complaint - CWC,NA,10012,ECB Warning Issued,1
+Misc Non-Food Retail - 817,Non-Delivery of Goods - N01,Advised to Sue - ATS,No,11235,Out of Business,1
+Immigration Svc Prv - 893,Advertising/Misleading - A02,Resolved and Consumer Satisfied - SPF,Yes,11232,No Violation Issued,1
+Secondhand Dealer Auto - 005,Non-Delivery of Service - N02,Cash Amount - AMT,Yes,11377,No Evidence of Activity,1
+Restaurant - 818,Surcharge/Overcharge - S02,Resolved and Consumer Satisfied - SPF,Yes,07074,Violation Issued,1
+Misc Non-Food Retail - 817,Exchange Goods/Contract Cancelled - E01,Cash Amount - AMT,Yes,10013,No Violation Issued,1
+Garage - 049,Surcharge/Overcharge - S02,Resolved and Consumer Satisfied - SPF,Yes,10016,No Violation Issued,1
+Garage - 049,Damaged Goods - D01,Referred to Hearing - RTH,No,11224,No Violation Issued,1
+Garage - 049,Non-Delivery Goods/Services,Consumer Took Action - CTA,No,10024,Violation Issued,1
+Garage - 049,Billing Dispute - B02,Resolved and Consumer Satisfied - SPF,Yes,07632,Violation Issued,1
+Garage - 049,Damaged Goods - D01,No Business Response - NVR,No,11422,Violation Issued,1
+Garage - 049,Misrepresentation - M01,Resolved and Consumer Satisfied - SPF,Yes,11201,Violation Issued,1
+Garage - 049,Surcharge/Overcharge - S02,Credit Card Refund and/or Contract Cancelled - CRC,Yes,10075,No Violation Issued,1
+Parking Lot - 050,,Credit Card Refund and/or Contract Cancelled - CRC,Yes,10314,Violation Issued,1
+Garage - 049,Surcharge/Overcharge - S02,Complaint Invalid - CIN,NA,,Violation Issued,1
+Garage - 049,Damaged Goods - D01,Resolved and Consumer Satisfied - SPF,Yes,11434,Out of Business,1
+Garage - 049,Surcharge/Overcharge - S02,Referred to Hearing - RTH,No,10025,Violation Issued,1
+Home Improvement Contractor - 100,Breach of Contract - B03,Goods Repaired - GRS,Yes,11101,Violation Issued,1
+Employment Agency - 034,Misrepresentation - M01,Cash Amount - AMT,Yes,11372,No Violation Issued,1
+Home Improvement Contractor - 100,Quality of Work - Q01,No Business Response - NVR,No,11217,No Violation Issued,1
+Pawnbroker - 080,Surcharge/Overcharge - S02,Bill Reduced - BLR,Yes,,No Violation Issued,1
+Pawnbroker - 080,Breach of Contract - B03,Resolved and Consumer Satisfied - SPF,Yes,11372,No Violation Issued,1
+Pawnbroker - 080,Non-Delivery of Goods - N01,Unable to Locate Business - ULV,NA,10462,Out of Business,1
+Electronic Store - 001,Misrepresentation - M01,Goods Exchanged - GEX,Yes,10458,Violation Issued,1
+Travel Agency - 440,Non-Delivery of Service - N02,No Business Response - NVR,No,11230,No Evidence of Activity,1
+Garage - 049,Damage / Estimate,Referred to Outside - RTO,NA,10001,No Violation Issued,1
+Misc Non-Food Retail - 817,Defective Goods - D02,Bill Reduced - BLR,Yes,11428,No Violation Issued,1
+Electronic & Home Appliance Service Dealer - 115,Non-Delivery of Service - N02,Advised to Sue - ATS,No,11220,Violation Issued,1
+Dry Cleaners - 230,Damaged Goods - D01,Cash Amount - AMT,Yes,11367,No Violation Issued,1
+Garage - 049,Billing Dispute - B02,Out of Business - OOB,NA,10014,Violation Issued,1
+Tow Truck Company - 124,Billing Dispute - B02,Referred to Hearing - RTH,No,12586,Pass,1
+Furniture Sales - 242,Refund Policy - R01,Goods Received - GDR,Yes,10466,No Violation Issued,1
+Misc Non-Food Retail - 817,Exchange Goods/Contract Cancelled - E01,Cash Amount - AMT,Yes,11220,Pass,1
+Laundry - 064,Damaged Goods - D01,Store Credit - SCR,Yes,10003,No Violation Issued,1
+Health Spa - 839,,Cash Amount - AMT,Yes,03801,No Violation Issued,1
+Jewelry Store-Retail - 823,Non-Delivery of Goods - N01,Unable to Locate Business - ULV,NA,10027,Pass,1
+Secondhand Dealer Auto - 005,,Resolved and Consumer Satisfied - SPF,Yes,11210,No Violation Issued,1
+Secondhand Dealer Auto - 005,,Complaint Invalid - CIN,NA,11210,No Violation Issued,1
+Secondhand Dealer Auto - 005,Billing Dispute - B02,Credit Card Refund and/or Contract Cancelled - CRC,Yes,11210,No Violation Issued,1
+Auto Dealership - 212,Misrepresentation - M01,No Consumer Response - NCR,NA,11210,No Violation Issued,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Resolved and Consumer Satisfied - SPF,Yes,11520,Violation Issued,1
+Dry Cleaners - 230,Non-Delivery of Service - N02,No Satisfactory Agreement - NSA,No,11354,No Violation Issued,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Advised to Sue - ATS,No,11215,Violation Issued,1
+Tow Truck Company - 124,Surcharge/Overcharge - S02,Cash Amount - AMT,Yes,11429,No Violation Issued,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Goods Repaired - GRS,Yes,11703,Violation Issued,1
+Misc Non-Food Retail - 817,Exchange Goods/Contract Cancelled - E01,Goods Received - GDR,Yes,10468,No Violation Issued,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Advised to Sue - ATS,No,11553,Violation Issued,1
+Electronic Store - 001,Exchange Goods/Contract Cancelled - E01,Unable to Locate Business - ULV,NA,10034,No Violation Issued,1
+Furniture Sales - 242,Exchange Goods/Contract Cancelled - E01,Goods Exchanged - GEX,Yes,,No Violation Issued,1
+Home Improvement Contractor - 100,Quality of Work - Q01,No Business Response - NVR,No,08085,Violation Issued,1
+Secondhand Dealer Auto - 005,Non-Delivery of Goods - N01,Resolved and Consumer Satisfied - SPF,Yes,11234,No Violation Issued,1
+Home Improvement Contractor - 100,Non-Delivery of Service - N02,Resolved and Consumer Satisfied - SPF,Yes,07726,No Violation Issued,1
+Electronic Store - 001,Advertising/Misleading - A02,No Satisfactory Agreement - NSA,No,11210,No Violation Issued,1
+Electronic Store - 001,Exchange Goods/Contract Cancelled - E01,Credit Card Refund and/or Contract Cancelled - CRC,Yes,10011,Out of Business,1
+Secondhand Dealer Auto - 005,Defective Goods - D02,Advised to Sue - ATS,No,11214,Violation Issued,1
+Furniture Sales - 242,Non-Delivery of Goods - N01,Unable to Locate Business - ULV,NA,10457,Out of Business,1
+Secondhand Dealer Auto - 005,Misrepresentation - M01,No Satisfactory Preempted - NSP,NA,11215,Violation Issued,1
+Laundry - 064,Surcharge/Overcharge - S02,Cash Amount - AMT,Yes,11233,No Violation Issued,1
+Misc Non-Food Retail - 817,Advertising/General - A01,Goods Received - GDR,Yes,10314,No Violation Issued,1
+Electronic Store - 001,Advertising/Misleading - A02,Bill Reduced - BLR,Yes,11212,No Violation Issued,1
+Home Improvement Contractor - 100,Breach of Contract - B03,Advised to Sue - ATS,No,10312,Violation Issued,1
+Tow Truck Company - 124,Surcharge/Overcharge - S02,No Consumer Response - NCR,NA,11203,Pass,1
+Tow Truck Company - 124,Misrepresentation - M01,Cash Amount - AMT,Yes,10461,No Violation Issued,1
+Furniture Sales - 242,Exchange Goods/Contract Cancelled - E01,Advised to Sue - ATS,No,10034,No Violation Issued,1
+Garage - 049,Misrepresentation - M01,Cash Amount - AMT,Yes,11356,Violation Issued,1
+Garage - 049,Misrepresentation - M01,Consumer Withdrew Complaint - CWC,NA,,Licensed,1
+Garage - 049,Misrepresentation - M01,Bill Reduced - BLR,Yes,10018,No Evidence of Activity,1
+Tow Truck Company - 124,Damaged Goods - D01,Advised to Sue - ATS,No,11211,No Violation Issued,1
+Misc Non-Food Retail - 817,Surcharge/Overcharge - S02,No Business Response - NVR,No,10467,No Violation Issued,1
+Home Improvement Contractor - 100,,Advised to Sue - ATS,No,11354,No Violation Issued,1
+Secondhand Dealer Auto - 005,Defective Goods - D02,Goods Repaired - GRS,Yes,11418,No Violation Issued,1
+Secondhand Dealer Auto - 005,Surcharge/Overcharge - S02,Resolved and Consumer Satisfied - SPF,Yes,11373,Violation Issued,1
+Tow Truck Company - 124,Billing Dispute - B02,Cash Amount - AMT,Yes,11428,Pass,1
+Tow Truck Company - 124,Billing Dispute - B02,Cash Amount - AMT,Yes,11433,Pass,1
+Furniture Sales - 242,Breach of Warranty - B04,Goods Repaired - GRS,Yes,11101,Out of Business,1
+Home Improvement Contractor - 100,Outstanding Judgment - J01,Referred to Outside - RTO,NA,10467,Violation Issued,1
+Booting Company - 126,Illegal/Unfair Booting,Cash Amount - AMT,Yes,11414,Pass,1
+Garage - 049,Misrepresentation - M01,Consumer Withdrew Complaint - CWC,NA,10018,No Violation Issued,1
+Garage - 049,Surcharge/Overcharge - S02,Resolved and Consumer Satisfied - SPF,Yes,10018,Unable to Locate,1
+Garage - 049,Misrepresentation - M01,Resolved and Consumer Satisfied - SPF,Yes,10018,Violation Issued,1
+Garage - 049,,Resolved and Consumer Satisfied - SPF,Yes,10018,Violation Issued,1
+Garage - 049,Misrepresentation - M01,Resolved and Consumer Satisfied - SPF,Yes,10018,Violation Issued,1
+Garage - 049,Misrepresentation - M01,Cash Amount - AMT,Yes,10018,No Violation Issued,1
+Garage - 049,Damaged Goods - D01,Cash Amount - AMT,Yes,10018,No Violation Issued,1
+Garage - 049,Surcharge/Overcharge - S02,Credit Card Refund and/or Contract Cancelled - CRC,Yes,10018,Violation Issued,1
+Garage - 049,Surcharge/Overcharge - S02,Resolved and Consumer Satisfied - SPF,Yes,10018,No Violation Issued,1
+Garage - 049,,Cash Amount - AMT,Yes,10018,Violation Issued,1
+Garage - 049,Misrepresentation - M01,Cash Amount - AMT,Yes,10018,No Violation Issued,1
+Garage - 049,Misrepresentation - M01,Resolved and Consumer Satisfied - SPF,Yes,10018,Violation Issued,1
+Garage - 049,Damaged Goods - D01,Cash Amount - AMT,Yes,10018,Violation Issued,1
+Garage - 049,Surcharge/Overcharge - S02,Resolved and Consumer Satisfied - SPF,Yes,10018,Unable to Locate,1
+Garage - 049,Surcharge/Overcharge - S02,Consumer Withdrew Complaint - CWC,NA,10038,Violation Issued,1
+Garage - 049,Surcharge/Overcharge - S02,Resolved and Consumer Satisfied - SPF,Yes,10018,Violation Issued,1
+Garage - 049,Surcharge/Overcharge - S02,Cash Amount - AMT,Yes,10036,No Violation Issued,1
+Garage - 049,Damaged Goods - D01,Resolved and Consumer Satisfied - SPF,Yes,10018,Violation Issued,1
+Parking Lot - 050,,Consumer Took Action - CTA,No,10018,Violation Issued,1
+Garage - 049,Surcharge/Overcharge - S02,Resolved and Consumer Satisfied - SPF,Yes,10018,Violation Issued,1
+Garage - 049,Exchange Goods/Contract Cancelled - E01,Resolved and Consumer Satisfied - SPF,Yes,10018,Violation Issued,1
+Garage - 049,Surcharge/Overcharge - S02,Consumer Took Action - CTA,No,10018,No Violation Issued,1
+Garage - 049,Damaged Goods - D01,Cash Amount - AMT,Yes,10001,Out of Business,1
+Garage - 049,Damaged Goods - D01,Cash Amount - AMT,Yes,10018,Violation Issued,1
+Garage - 049,Surcharge/Overcharge - S02,Credit Card Refund and/or Contract Cancelled - CRC,Yes,10018,Violation Issued,1
+Garage - 049,Surcharge/Overcharge - S02,Bill Reduced - BLR,Yes,10018,No Violation Issued,1
+Dry Cleaners - 230,Damaged Goods - D01,Cash Amount - AMT,Yes,11385,Pass,1
+Electronic Store - 001,Exchange Goods/Contract Cancelled - E01,Unable to Locate Business - ULV,NA,10033,Out of Business,1
+Electronic Store - 001,Breach of Contract - B03,Advised to Sue - ATS,No,76102,Out of Business,1
+Misc Non-Food Retail - 817,Non-Delivery of Goods - N01,No Business Response - NVR,No,10003,Out of Business,1
+Jewelry Store-Retail - 823,Exchange Goods/Contract Cancelled - E01,Cash Amount - AMT,Yes,11372,No Violation Issued,1
+Misc Non-Food Retail - 817,Non-Delivery of Goods - N01,Advised to Sue - ATS,No,10021,Fail,1
+Retail Store - 820,Surcharge/Overcharge - S02,Cash Amount - AMT,Yes,11207,Pass,1
+Misc Non-Food Retail - 817,Exchange Goods/Contract Cancelled - E01,Goods Exchanged - GEX,Yes,11432,Violation Issued,1
+Secondhand Dealer Auto - 005,Non-Delivery of Goods - N01,Cash Amount - AMT,Yes,11218,No Violation Issued,1
+Electronic Store - 001,Advertising/Misleading - A02,Advised to Sue - ATS,No,10462,No Violation Issued,1
+Home Improvement Contractor - 100,Breach of Contract - B03,Advised to Sue - ATS,No,07840,No Violation Issued,1
+Furniture Sales - 242,Billing Dispute - B02,Cash Amount - AMT,Yes,13090,No Violation Issued,1
+Furniture Sales - 242,Damaged Goods - D01,Resolved and Consumer Satisfied - SPF,Yes,13090,Closed,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Referred to Hearing - RTH,No,11419,Violation Issued,1
+Sightseeing Bus - 078,,Complaint Invalid - CIN,NA,10036,Violation Issued,1
+Misc Non-Food Retail - 817,Refund Policy - R01,Goods Exchanged - GEX,Yes,10038,No Violation Issued,1
+Furniture Sales - 242,Misrepresentation - M01,No Business Response - NVR,No,11212,No Violation Issued,1
+Garage - 049,Surcharge/Overcharge - S02,Resolved and Consumer Satisfied - SPF,Yes,10016,No Violation Issued,1
+Garage - 049,Other - Z01,Resolved and Consumer Satisfied - SPF,Yes,10016,No Violation Issued,1
+Electronic & Home Appliance Service Dealer - 115,Advertising/Misleading - A02,No Business Response - NVR,No,10468,Out of Business,1
+Tow Truck Company - 124,Surcharge/Overcharge - S02,Cash Amount - AMT,Yes,11231,Pass,1
+Furniture Sales - 242,Exchange Goods/Contract Cancelled - E01,Advised to Sue - ATS,No,11374,Out of Business,1
+Home Improvement Contractor - 100,Breach of Contract - B03,Referred to Hearing - RTH,No,11735,Violation Issued,1
+Electronic & Home Appliance Service Dealer - 115,Non-Delivery of Service - N02,Unable to Locate Business - ULV,NA,11204,Out of Business,1
+Home Improvement Contractor - 100,Non-Delivery of Service - N02,Unable to Locate Business - ULV,NA,11101,Violation Issued,1
+Garage - 049,Non-Delivery Goods/Services,Cash Amount - AMT,Yes,10024,Violation Issued,1
+Home Improvement Contractor - 100,Exchange Goods/Contract Cancelled - E01,No Business Response - NVR,No,11419,Violation Issued,1
+Home Improvement Contractor - 100,Exchange Goods/Contract Cancelled - E01,Advised to Sue - ATS,No,11229,Violation Issued,1
+Home Improvement Contractor - 100,Breach of Contract - B03,Advised to Sue - ATS,No,11365,Violation Issued,1
+Furniture Sales - 242,Exchange Goods/Contract Cancelled - E01,Advised to Sue - ATS,No,75024,No Violation Issued,1
+Garage - 049,Surcharge/Overcharge - S02,Cash Amount - AMT,Yes,10036,No Violation Issued,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Advised to Sue - ATS,No,11372,No Violation Issued,1
+Home Improvement Contractor - 100,Breach of Contract - B03,Referred to Outside - RTO,NA,10455,Violation Issued,1
+Tow Truck Company - 124,Surcharge/Overcharge - S02,Referred to Hearing - RTH,No,11230,Pass,1
+Horse Drawn Cab Driver - 086,Surcharge/Overcharge - S02,No Consumer Response - NCR,NA,11357,Pass,1
+Appliances - 244,Exchange Goods/Contract Cancelled - E01,No Satisfactory Agreement - NSA,No,11735,No Violation Issued,1
+Electronic Store - 001,Surcharge/Overcharge - S02,Resolved and Consumer Satisfied - SPF,Yes,11418,No Violation Issued,1
+Tow Truck Company - 124,Surcharge/Overcharge - S02,Referred to Outside - RTO,NA,11435,Pass,1
+Secondhand Dealer Auto - 005,Defective Goods - D02,Consumer Took Action - CTA,No,11421,Violation Issued,1
+Supermarket - 819,Refund Policy - R01,Resolved and Consumer Satisfied - SPF,Yes,11385,Out of Business,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Advised to Sue - ATS,No,11385,No Violation Issued,1
+Home Improvement Contractor - 100,Exchange Goods/Contract Cancelled - E01,Goods Received - GDR,Yes,11205,Violation Issued,1
+Drug Store Retail - 810,Exchange Goods/Contract Cancelled - E01,Cash Amount - AMT,Yes,17011,No Violation Issued,1
+Tow Truck Company - 124,Damaged Goods - D01,Cash Amount - AMT,Yes,11364,Pass,1
+Garage - 049,Damaged Goods - D01,No Consumer Response - NCR,NA,10018,Violation Issued,1
+Tow Truck Company - 124,Misrepresentation - M01,Referred to Hearing - RTH,No,11369,Pass,1
+Tow Truck Company - 124,Billing Dispute - B02,Complaint Invalid - CIN,NA,11377,No Evidence of Activity,1
+Electronic Store - 001,Surcharge/Overcharge - S02,Cash Amount - AMT,Yes,11372,No Violation Issued,1
+Dry Cleaners - 230,Damaged Goods - D01,Cash Amount - AMT,Yes,11434,No Violation Issued,1
+Secondhand Dealer Auto - 005,Breach of Warranty - B04,Complaint Invalid - CIN,NA,10303,Violation Issued,1
+Tow Truck Company - 124,Surcharge/Overcharge - S02,Cash Amount - AMT,Yes,11429,Pass,1
+Furniture Sales - 242,Advertising/General - A01,Resolved and Consumer Satisfied - SPF,Yes,10305,No Violation Issued,1
+Home Improvement Contractor - 100,Misrepresentation - M01,Cash Amount - AMT,Yes,11412,Violation Issued,1
+Secondhand Dealer Auto - 005,Damaged Goods - D01,Cash Amount - AMT,Yes,11230,No Evidence of Activity,1
+Dry Cleaners - 230,Non-Delivery of Service - N02,Goods Received - GDR,Yes,11213,No Violation Issued,1
+Electronic Store - 001,Surcharge/Overcharge - S02,Consumer Took Action - CTA,No,10018,Violation Issued,1
+Secondhand Dealer Auto - 005,Bait & Switch - B01,Resolved and Consumer Satisfied - SPF,Yes,11214,No Violation Issued,1
+Furniture Sales - 242,Exchange Goods/Contract Cancelled - E01,Credit Card Refund and/or Contract Cancelled - CRC,Yes,11355,No Violation Issued,1
+Home Improvement Contractor - 100,Bait & Switch - B01,Referred to Outside - RTO,NA,11369,Violation Issued,1
+Tow Truck Company - 124,Surcharge/Overcharge - S02,Cash Amount - AMT,Yes,11420,Pass,1
+Storage Warehouse - 120,Billing Dispute - B02,Cash Amount - AMT,Yes,11207,No Violation Issued,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Cash Amount - AMT,Yes,10038,No Violation Issued,1
+Secondhand Dealer Auto - 005,Damaged Goods - D01,No Satisfactory Agreement - NSA,No,10457,No Violation Issued,1
+Locksmith - 062,Defective Goods - D02,Resolved and Consumer Satisfied - SPF,Yes,11377,No Evidence of Activity,1
+Electronic Store - 001,Breach of Contract - B03,Resolved and Consumer Satisfied - SPF,Yes,11220,No Violation Issued,1
+Electronic Store - 001,Misrepresentation - M01,Resolved and Consumer Satisfied - SPF,Yes,11102,Out of Business,1
+Electronic & Home Appliance Service Dealer - 115,Defective Goods - D02,Goods Repaired - GRS,Yes,11212,Out of Business,1
+Furniture Sales - 242,Damaged Goods - D01,No Consumer Response - NCR,NA,11228,No Violation Issued,1
+Home Improvement Contractor - 100,Breach of Warranty - B04,Goods Repaired - GRS,Yes,11419,No Violation Issued,1
+Retail Store - 820,Damaged Goods - D01,No Business Response - NVR,No,11201,No Violation Issued,1
+Home Improvement Contractor - 100,Outstanding Judgment - J01,Referred to Hearing - RTH,No,11421,Violation Issued,1
+Electronic Store - 001,Advertising/Misleading - A02,Complaint Invalid - CIN,NA,11203,No Violation Issued,1
+Fuel Oil Dealer - 814,Surcharge/Overcharge - S02,Cash Amount - AMT,Yes,10309,Pass,1
+Garage - 049,Damaged Goods - D01,Consumer Withdrew Complaint - CWC,NA,10128,No Violation Issued,1
+Home Improvement Contractor - 100,Breach of Contract - B03,No Business Response - NVR,No,11432,Violation Issued,1
+Tow Truck Company - 124,Billing Dispute - B02,Cash Amount - AMT,Yes,11377,Pass,1
+Pawnbroker - 080,Lost Property - L02,Advised to Sue - ATS,No,11208,No Violation Issued,1
+Garage - 049,Advertising/General - A01,Resolved and Consumer Satisfied - SPF,Yes,10038,No Violation Issued,1
+Electronic Store - 001,Defective Goods - D02,Resolved and Consumer Satisfied - SPF,Yes,60179,No Violation Issued,1
+Home Improvement Contractor - 100,Non-Delivery of Service - N02,Advised to Sue - ATS,No,10308,Violation Issued,1
+Home Improvement Contractor - 100,Quality of Work - Q01,No Business Response - NVR,No,10303,Violation Issued,1
+Dry Cleaners - 230,Surcharge/Overcharge - S02,Advised to Sue - ATS,No,11362,Violation Issued,1
+Electronic Store - 001,Damaged Goods - D01,Credit Card Refund and/or Contract Cancelled - CRC,Yes,10022,Out of Business,1
+Mailorder Misc - 319,Non-Delivery of Goods - N01,Resolved and Consumer Satisfied - SPF,Yes,10005,Closed,1
+Funeral Homes - 888,Misrepresentation - M01,Cash Amount - AMT,Yes,10031,No Violation Issued,1
+Electronic Store - 001,Breach of Contract - B03,No Consumer Response - NCR,NA,10019,No Violation Issued,1
+Home Improvement Contractor - 100,Non-Delivery of Service - N02,Advised to Sue - ATS,No,11355,Violation Issued,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Consumer Took Action - CTA,No,11208,No Violation Issued,1
+Furniture Sales - 242,Non-Delivery of Goods - N01,Cash Amount - AMT,Yes,11204,No Violation Issued,1
+Electronic Store - 001,Non-Delivery of Goods - N01,Goods Received - GDR,Yes,10458,No Violation Issued,1
+Home Improvement Contractor - 100,Breach of Contract - B03,Advised to Sue - ATS,No,10530,No Violation Issued,1
+Dry Cleaners - 230,Damaged Goods - D01,No Satisfactory Agreement - NSA,No,10454,Pass,1
+Misc Non-Food Retail - 817,Misrepresentation - M01,Credit Card Refund and/or Contract Cancelled - CRC,Yes,10025,No Violation Issued,1
+Electronic & Home Appliance Service Dealer - 115,Refund Policy - R01,Cash Amount - AMT,Yes,11432,No Violation Issued,1
+Misc Non-Food Retail - 817,Non-Delivery of Goods - N01,Advised to Sue - ATS,No,11377,No Violation Issued,1
+Supermarket - 819,Misrepresentation - M01,Store Credit - SCR,Yes,10306,Pass,1
+Misc Non-Food Retail - 817,Non-Delivery of Goods - N01,Unable to Locate Business - ULV,NA,11435,No Violation Issued,1
+Secondhand Dealer Auto - 005,Damaged Goods - D01,Referred to Outside - RTO,NA,10467,Out of Business,1
+Furniture Sales - 242,Exchange Goods/Contract Cancelled - E01,Advised to Sue - ATS,No,11435,Violation Issued,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Advised to Sue - ATS,No,11418,No Evidence of Activity,1
+Home Improvement Contractor - 100,Misrepresentation - M01,Goods Repaired - GRS,Yes,11420,Violation Issued,1
+Dry Cleaners - 230,Damaged Goods - D01,Consumer Withdrew Complaint - CWC,NA,10462,No Violation Issued,1
+Laundry - 064,Damaged Goods - D01,Goods Received - GDR,Yes,11215,Violation Issued,1
+Secondhand Dealer Auto - 005,Billing Dispute - B02,Cash Amount - AMT,Yes,10036,No Violation Issued,1
+Home Improvement Contractor - 100,Non-Delivery of Service - N02,Advised to Sue - ATS,No,11577,Violation Issued,1
+Dry Cleaners - 230,Damaged Goods - D01,Cash Amount - AMT,Yes,11355,No Violation Issued,1
+Home Improvement Contractor - 100,,Consumer Took Action - CTA,No,11223,Violation Issued,1
+Furniture Sales - 242,Damaged Goods - D01,No Consumer Response - NCR,NA,11801,No Violation Issued,1
+Furniture Sales - 242,Misrepresentation - M01,Consumer Took Action - CTA,No,11801,No Violation Issued,1
+Tax Preparers - 891,Surcharge/Overcharge - S02,Advised to Sue - ATS,No,11213,No Violation Issued,1
+Electronic Store - 001,,Cash Amount - AMT,Yes,11229,Warning,1
+Electronic Store - 001,Breach of Contract - B03,Goods Exchanged - GEX,Yes,11214,Violation Issued,1
+Electronic Store - 001,Exchange Goods/Contract Cancelled - E01,Credit Card Refund and/or Contract Cancelled - CRC,Yes,10040,No Violation Issued,1
+Tow Truck Company - 124,Surcharge/Overcharge - S02,Cash Amount - AMT,Yes,11215,Pass,1
+Tax Preparers - 891,Outstanding Judgment - J01,Referred to Outside - RTO,NA,10452,No Violation Issued,1
+Garage - 049,Surcharge/Overcharge - S02,Store Credit - SCR,Yes,11355,Violation Issued,1
+Furniture Sales - 242,Non-Delivery of Goods - N01,No Consumer Response - NCR,NA,11103,No Violation Issued,1
+Home Improvement Contractor - 100,Breach of Contract - B03,Advised to Sue - ATS,No,11101,No Violation Issued,1
+Garage - 049,Surcharge/Overcharge - S02,Resolved and Consumer Satisfied - SPF,Yes,10016,No Violation Issued,1
+Misc Non-Food Retail - 817,,No Business Response - NVR,No,11231,Out of Business,1
+Misc Non-Food Retail - 817,Exchange Goods/Contract Cancelled - E01,No Satisfactory Agreement - NSA,No,10007,No Violation Issued,1
+Appliances - 244,Defective Goods - D02,No Consumer Response - NCR,NA,11204,Violation Issued,1
+Misc Non-Food Retail - 817,Exchange Goods/Contract Cancelled - E01,Credit Card Refund and/or Contract Cancelled - CRC,Yes,11373,No Violation Issued,1
+Tax Preparers - 891,Refund Policy - R01,Referred to Outside - RTO,NA,11226,No Violation Issued,1
+Tow Truck Company - 124,Surcharge/Overcharge - S02,Resolved and Consumer Satisfied - SPF,Yes,11550,Pass,1
+Travel Agency - 440,Exchange Goods/Contract Cancelled - E01,No Business Response - NVR,No,11354,No Evidence of Activity,1
+Tow Truck Company - 124,Surcharge/Overcharge - S02,Complaint Invalid - CIN,NA,11106,Pass,1
+Gas Station-Retail - 815,Refund Policy - R01,Cash Amount - AMT,Yes,11234,No Violation Issued,1
+Employment Agency - 034,Advertising/Misleading - A02,Unable to Locate Business - ULV,NA,10001,Unable to Locate,1
+Misc Non-Food Retail - 817,Misrepresentation - M01,Store Credit - SCR,Yes,33025,Pass,1
+Secondhand Dealer Auto - 005,Damaged Goods - D01,Cash Amount - AMT,Yes,11207,No Violation Issued,1
+Garage - 049,Surcharge/Overcharge - S02,Resolved and Consumer Satisfied - SPF,Yes,10001,No Violation Issued,1
+Electronic Store - 001,Advertising/Misleading - A02,Advised to Sue - ATS,No,66251,Violation Issued,1
+Home Improvement Contractor - 100,Outstanding Judgment - J01,Referred to Outside - RTO,NA,11214,Violation Issued,1
+Electronic Store - 001,Exchange Goods/Contract Cancelled - E01,Cash Amount - AMT,Yes,10019,Violation Issued,1
+Employment Agency - 034,Exchange Goods/Contract Cancelled - E01,Unable to Locate Business - ULV,NA,10016,Out of Business,1
+Dry Cleaners - 230,Damaged Goods - D01,Advised to Sue - ATS,No,10002,No Violation Issued,1
+Electronic Store - 001,Exchange Goods/Contract Cancelled - E01,Complaint Invalid - CIN,NA,01702,No Violation Issued,1
+Secondhand Dealer Auto - 005,Breach of Contract - B03,Referred to Hearing - RTH,No,,No Violation Issued,1
+Electronic Store - 001,Billing Dispute - B02,Consumer Took Action - CTA,No,10457,Violation Issued,1
+Secondhand Dealer Auto - 005,Billing Dispute - B02,Referred to Outside - RTO,NA,11361,No Violation Issued,1
+Secondhand Dealer Auto - 005,,Credit Card Refund and/or Contract Cancelled - CRC,Yes,,No Violation Issued,1
+Electronic Store - 001,Breach of Contract - B03,Resolved and Consumer Satisfied - SPF,Yes,10037,Pass,1
+Tow Truck Company - 124,Billing Dispute - B02,Referred to Outside - RTO,NA,10303,Violation Issued,1
+Pawnbroker - 080,Lost Property - L02,Resolved and Consumer Satisfied - SPF,Yes,11216,No Violation Issued,1
+Garage - 049,Surcharge/Overcharge - S02,Complaint Invalid - CIN,NA,10065,No Violation Issued,1
+Dry Cleaners - 230,Misrepresentation - M01,No Satisfactory Agreement - NSA,No,11219,Violation Issued,1
+Home Improvement Contractor - 100,,Advised to Sue - ATS,No,10003,Violation Issued,1
+Garage - 049,Damaged Goods - D01,Referred to Hearing - RTH,No,10128,No Violation Issued,1
+Parking Lot - 050,Billing Dispute - B02,Resolved and Consumer Satisfied - SPF,Yes,10019,Violation Issued,1
+Home Improvement Contractor - 100,Exchange Goods/Contract Cancelled - E01,Advised to Sue - ATS,No,10031,Violation Issued,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Goods Repaired - GRS,Yes,11418,Violation Issued,1
+Supermarket - 819,Surcharge/Overcharge - S02,Resolved and Consumer Satisfied - SPF,Yes,07645,No Violation Issued,1
+Misc Non-Food Retail - 817,Exchange Goods/Contract Cancelled - E01,Goods Exchanged - GEX,Yes,10457,No Evidence of Activity,1
+Garage - 049,Exchange Goods/Contract Cancelled - E01,Advised to Sue - ATS,No,10002,Violation Issued,1
+Dry Cleaners - 230,Non-Delivery of Service - N02,Advised to Sue - ATS,No,10016,Violation Issued,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Goods Repaired - GRS,Yes,11419,No Violation Issued,1
+Home Improvement Contractor - 100,Exchange Goods/Contract Cancelled - E01,Advised to Sue - ATS,No,11354,Violation Issued,1
+Dry Cleaners - 230,Wrong Goods - W01,Credit Card Refund and/or Contract Cancelled - CRC,Yes,11418,No Violation Issued,1
+Misc Non-Food Retail - 817,Misrepresentation - M01,No Business Response - NVR,No,11204,Out of Business,1
+Restaurant - 818,Surcharge/Overcharge - S02,Resolved and Consumer Satisfied - SPF,Yes,10013,Pass,1
+Home Improvement Contractor - 100,Breach of Contract - B03,Advised to Sue - ATS,No,10801,No Violation Issued,1
+Grocery-Retail - 808,Defective Goods - D02,Unable to Locate Business - ULV,NA,10472,Pass,1
+Furniture Sales - 242,Exchange Goods/Contract Cancelled - E01,Advised to Sue - ATS,No,10458,Out of Business,1
+Garage - 049,Surcharge/Overcharge - S02,Cash Amount - AMT,Yes,10016,Violation Issued,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Advised to Sue - ATS,No,11435,Violation Issued,1
+Electronic Store - 001,Exchange Goods/Contract Cancelled - E01,Advised to Sue - ATS,No,10459,No Violation Issued,1
+Secondhand Dealer Auto - 005,Misrepresentation - M01,Cash Amount - AMT,Yes,11432,No Violation Issued,1
+Garage - 049,Misrepresentation - M01,Goods Received - GDR,Yes,11375,No Violation Issued,1
+Garage - 049,Surcharge/Overcharge - S02,Resolved and Consumer Satisfied - SPF,Yes,11375,No Violation Issued,1
+Electronic & Home Appliance Service Dealer - 115,Closed without Notice,Unable to Locate Business - ULV,NA,11213,Closed,1
+Health Spa - 839,Billing Dispute - B02,Resolved and Consumer Satisfied - SPF,Yes,11201,No Violation Issued,1
+Electronic Store - 001,Exchange Goods/Contract Cancelled - E01,Advised to Sue - ATS,No,10458,Violation Issued,1
+Home Improvement Contractor - 100,Non-Delivery of Service - N02,Goods Repaired - GRS,Yes,10462,No Violation Issued,1
+Misc Non-Food Retail - 817,Surcharge/Overcharge - S02,Store Credit - SCR,Yes,55403,No Violation Issued,1
+Tax Preparers - 891,Misrepresentation - M01,Advised to Sue - ATS,No,11235,No Violation Issued,1
+Electronic & Home Appliance Service Dealer - 115,,Out of Business - OOB,NA,11229,Out of Business,1
+Home Improvement Contractor - 100,Non-Delivery of Service - N02,No Business Response - NVR,No,11747,Violation Issued,1
+Secondhand Dealer Auto - 005,Defective Goods - D02,Goods Exchanged - GEX,Yes,10469,No Violation Issued,1
+Secondhand Dealer Auto - 005,Misrepresentation - M01,Goods Exchanged - GEX,Yes,10466,No Evidence of Activity,1
+Retail Store - 820,Exchange Goods/Contract Cancelled - E01,Goods Exchanged - GEX,Yes,11385,No Violation Issued,1
+Electronic Store - 001,Exchange Goods/Contract Cancelled - E01,Advised to Sue - ATS,No,,Out of Business,1
+Secondhand Dealer Auto - 005,Defective Goods - D02,Goods Repaired - GRS,Yes,11219,Violation Issued,1
+Home Improvement Contractor - 100,,Advised to Sue - ATS,No,11222,Violation Issued,1
+Appliances - 244,Non-Delivery of Goods - N01,Resolved and Consumer Satisfied - SPF,Yes,11230,No Violation Issued,1
+Home Improvement Contractor - 100,Non-Delivery of Service - N02,Cash Amount - AMT,Yes,11417,Violation Issued,1
+Jewelry Store-Retail - 823,Surcharge/Overcharge - S02,No Satisfactory Agreement - NSA,No,11201,No Violation Issued,1
+Secondhand Dealer [General] - 006,Misrepresentation - M01,Advised to Sue - ATS,No,11375,Violation Issued,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Resolved and Consumer Satisfied - SPF,Yes,10303,Licensed,1
+Furniture Sales - 242,Non-Delivery of Goods - N01,Cash Amount - AMT,Yes,11216,No Violation Issued,1
+Electronic Store - 001,Misrepresentation - M01,Goods Exchanged - GEX,Yes,10453,No Violation Issued,1
+Laundry - 064,Damaged Goods - D01,Unable to Locate Business - ULV,NA,10005,No Evidence of Activity,1
+Secondhand Dealer Auto - 005,Breach of Warranty - B04,Goods Received - GDR,Yes,11207,No Violation Issued,1
+Storage Warehouse - 120,Billing Dispute - B02,Advised to Sue - ATS,No,10451,Posting Order Served,1
+Garage - 049,Damaged Goods - D01,No Business Response - NVR,No,11434,Violation Issued,1
+Misc Non-Food Retail - 817,,Goods Exchanged - GEX,Yes,01701,No Violation Issued,1
+Floor Coverings - 241,Misrepresentation - M01,No Business Response - NVR,No,11204,No Violation Issued,1
+Home Improvement Contractor - 100,Breach of Contract - B03,Advised to Sue - ATS,No,10454,Violation Issued,1
+Home Improvement Contractor - 100,Non-Delivery of Service - N02,Advised to Sue - ATS,No,11222,Violation Issued,1
+Garage - 049,Damage / Estimate,Cash Amount - AMT,Yes,10012,No Violation Issued,1
+Home Improvement Contractor - 100,Quality of Work - Q01,No Business Response - NVR,No,11101,Violation Issued,1
+Tow Truck Company - 124,Surcharge/Overcharge - S02,Cash Amount - AMT,Yes,11206,Pass,1
+Tow Truck Company - 124,Surcharge/Overcharge - S02,Cash Amount - AMT,Yes,11216,Out of Business,1
+Misc Non-Food Retail - 817,Non-Delivery of Goods - N01,No Business Response - NVR,No,10031,No Evidence of Activity,1
+Electronic Store - 001,Defective Goods - D02,Resolved and Consumer Satisfied - SPF,Yes,11432,No Violation Issued,1
+Electronic Store - 001,Non-Delivery of Goods - N01,Cash Amount - AMT,Yes,10018,No Violation Issued,1
+Dry Cleaners - 230,Damaged Goods - D01,Cash Amount - AMT,Yes,10128,Pass,1
+Furniture Sales - 242,Billing Dispute - B02,No Business Response - NVR,No,11435,Out of Business,1
+Furniture Sales - 242,Damaged Goods - D01,Store Credit - SCR,Yes,11235,No Violation Issued,1
+Electronic Store - 001,Exchange Goods/Contract Cancelled - E01,Cash Amount - AMT,Yes,11220,No Violation Issued,1
+Tow Truck Company - 124,Surcharge/Overcharge - S02,Cash Amount - AMT,Yes,11356,Pass,1
+Misc Non-Food Retail - 817,Non-Delivery of Goods - N01,Advised to Sue - ATS,No,10309,Pass,1
+Misc Non-Food Retail - 817,Exchange Goods/Contract Cancelled - E01,Credit Card Refund and/or Contract Cancelled - CRC,Yes,11201,No Violation Issued,1
+Misc Non-Food Retail - 817,Exchange Goods/Contract Cancelled - E01,No Satisfactory Agreement - NSA,No,10458,No Violation Issued,1
+Home Improvement Contractor - 100,,Advised to Sue - ATS,No,11436,Violation Issued,1
+Garage - 049,Surcharge/Overcharge - S02,Advised to Sue - ATS,No,10001,No Violation Issued,1
+Home Improvement Contractor - 100,Non-Delivery of Service - N02,Advised to Sue - ATS,No,,Violation Issued,1
+Tow Truck Company - 124,Damaged Goods - D01,Consumer Took Action - CTA,No,10472,Pass,1
+Misc Non-Food Retail - 817,Misrepresentation - M01,Resolved and Consumer Satisfied - SPF,Yes,11226,No Violation Issued,1
+Secondhand Dealer Auto - 005,Billing Dispute - B02,Credit Card Refund and/or Contract Cancelled - CRC,Yes,11101,Violation Issued,1
+Home Improvement Contractor - 100,Quality of Work - Q01,No Satisfactory Agreement - NSA,No,11436,Violation Issued,1
+Tow Truck Company - 124,Misrepresentation - M01,Cash Amount - AMT,Yes,10451,No Violation Issued,1
+Tow Truck Company - 124,,Cash Amount - AMT,Yes,10473,Fail,1
+Tow Truck Company - 124,Excessive Charges,Complaint Invalid - CIN,NA,11418,No Violation Issued,1
+Tow Truck Company - 124,Surcharge/Overcharge - S02,Cash Amount - AMT,Yes,11231,Pass,1
+Misc Non-Food Retail - 817,Exchange Goods/Contract Cancelled - E01,Store Credit - SCR,Yes,07470,Posting Order Served,1
+Furniture Sales - 242,Damaged Goods - D01,Advised to Sue - ATS,No,10455,Violation Issued,1
+Parking Lot - 050,,No Consumer Response - NCR,NA,11101,Violation Issued,1
+Electronic Store - 001,Damaged Goods - D01,No Consumer Response - NCR,NA,10457,Violation Issued,1
+Tow Truck Company - 124,Surcharge/Overcharge - S02,Referred to Outside - RTO,NA,11385,Violation Issued,1
+Tow Truck Company - 124,Surcharge/Overcharge - S02,Cash Amount - AMT,Yes,11385,Pass,1
+Employment Agency - 034,Billing Dispute - B02,Unable to Locate Business - ULV,NA,10001,Unable to Locate,1
+Home Improvement Contractor - 100,Breach of Contract - B03,Consumer Took Action - CTA,No,11215,Violation Issued,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Referred to Hearing - RTH,No,11203,No Evidence of Activity,1
+Home Improvement Contractor - 100,Non-Delivery of Service - N02,Consumer Took Action - CTA,No,11010,Violation Issued,1
+Home Improvement Contractor - 100,Breach of Contract - B03,Consumer Took Action - CTA,No,11228,Violation Issued,1
+Restaurant - 818,Surcharge/Overcharge - S02,Consumer Took Action - CTA,No,10016,No Violation Issued,1
+Appliances - 244,Defective Goods - D02,Goods Repaired - GRS,Yes,11366,No Violation Issued,1
+Electronic & Home Appliance Service Dealer - 115,Non-Delivery of Service - N02,Unable to Locate Business - ULV,NA,10003,Out of Business,1
+Home Improvement Contractor - 100,Damaged Goods - D01,Advised to Sue - ATS,No,10977,No Violation Issued,1
+Tow Truck Company - 124,Surcharge/Overcharge - S02,Cash Amount - AMT,Yes,10461,Pass,1
+Tow Truck Company - 124,Misrepresentation - M01,Consumer Took Action - CTA,No,10310,Pass,1
+Misc Non-Food Retail - 817,Misrepresentation - M01,Unable to Locate Business - ULV,NA,10453,No Violation Issued,1
+Tow Truck Company - 124,Other - Z01,Cash Amount - AMT,Yes,11417,Pass,1
+Furniture Sales - 242,Defective Goods - D02,Complaint Invalid - CIN,NA,11432,No Violation Issued,1
+Home Improvement Contractor - 100,Non-Delivery of Service - N02,Cash Amount - AMT,Yes,11550,No Violation Issued,1
+Misc Non-Food Retail - 817,Exchange Goods/Contract Cancelled - E01,Cash Amount - AMT,Yes,10001,Pass,1
+Misc Non-Food Retail - 817,Exchange Goods/Contract Cancelled - E01,Advised to Sue - ATS,No,11355,No Violation Issued,1
+Secondhand Dealer Auto - 005,Bill of Rights,Cash Amount - AMT,Yes,11432,No Violation Issued,1
+Laundry - 064,Damaged Goods - D01,Cash Amount - AMT,Yes,10306,Pass,1
+Home Improvement Contractor - 100,Breach of Contract - B03,Advised to Sue - ATS,No,11219,No Violation Issued,1
+Electronic Store - 001,Advertising/Misleading - A02,Credit Card Refund and/or Contract Cancelled - CRC,Yes,10461,No Violation Issued,1
+Secondhand Dealer Auto - 005,Exchange Goods/Contract Cancelled - E01,Cash Amount - AMT,Yes,11101,No Violation Issued,1
+Dealer In Products For The Disabled - 119,Non-Delivery of Goods - N01,Resolved and Consumer Satisfied - SPF,Yes,11235,No Violation Issued,1
+Tow Truck Company - 124,Surcharge/Overcharge - S02,Cash Amount - AMT,Yes,10469,Pass,1
+Electronic Store - 001,Damaged Goods - D01,Cash Amount - AMT,Yes,11220,No Violation Issued,1
+Electronic Store - 001,Advertising/Misleading - A02,Cash Amount - AMT,Yes,,No Violation Issued,1
+Secondhand Dealer Auto - 005,Exchange Goods/Contract Cancelled - E01,Consumer Took Action - CTA,No,11207,Violation Issued,1
+Secondhand Dealer Auto - 005,Damaged Goods - D01,Advised to Sue - ATS,No,11231,Out of Business,1
+Secondhand Dealer Auto - 005,Exchange Goods/Contract Cancelled - E01,Goods Repaired - GRS,Yes,11207,No Violation Issued,1
+Secondhand Dealer Auto - 005,Non-Delivery of Goods - N01,No Consumer Response - NCR,NA,10456,Violation Issued,1
+Garage - 049,Surcharge/Overcharge - S02,Cash Amount - AMT,Yes,10017,No Violation Issued,1
+Dry Cleaners - 230,Damaged Goods - D01,Advised to Sue - ATS,No,11229,No Violation Issued,1
+Furniture Sales - 242,Defective Goods - D02,Unable to Locate Business - ULV,NA,11216,Out of Business,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Advised to Sue - ATS,No,10312,Violation Issued,1
+Secondhand Dealer Auto - 005,Non-Delivery of Goods - N01,Cash Amount - AMT,Yes,10304,Violation Issued,1
+Retail Store - 820,Exchange Goods/Contract Cancelled - E01,Advised to Sue - ATS,No,10021,No Violation Issued,1
+Appliances - 244,Exchange Goods/Contract Cancelled - E01,Goods Exchanged - GEX,Yes,10453,Violation Issued,1
+Misc Non-Food Retail - 817,Surcharge/Overcharge - S02,Resolved and Consumer Satisfied - SPF,Yes,11004,Violation Issued,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Advised to Sue - ATS,No,11229,No Violation Issued,1
+Misc Non-Food Retail - 817,Exchange Goods/Contract Cancelled - E01,Resolved and Consumer Satisfied - SPF,Yes,11103,No Violation Issued,1
+Misc Non-Food Retail - 817,Misrepresentation - M01,Store Credit - SCR,Yes,10007,No Violation Issued,1
+Misc Non-Food Retail - 817,Billing Dispute - B02,Bill Reduced - BLR,Yes,33733,No Violation Issued,1
+Retail Store - 820,Exchange Goods/Contract Cancelled - E01,Advised to Sue - ATS,No,10019,No Violation Issued,1
+Furniture Sales - 242,Damaged Goods - D01,Advised to Sue - ATS,No,11101,No Violation Issued,1
+Garage - 049,Misrepresentation - M01,No Satisfactory Agreement - NSA,No,10018,Violation Issued,1
+Secondhand Dealer Auto - 005,Damaged Goods - D01,Goods Repaired - GRS,Yes,10466,No Violation Issued,1
+Secondhand Dealer [General] - 006,Defective Goods - D02,Cash Amount - AMT,Yes,11377,No Violation Issued,1
+Misc Non-Food Retail - 817,Exchange Goods/Contract Cancelled - E01,Advised to Sue - ATS,No,11220,Out of Business,1
+Home Improvement Contractor - 100,Non-Delivery of Service - N02,Unable to Locate Business - ULV,NA,11217,Violation Issued,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Cash Amount - AMT,Yes,10303,No Violation Issued,1
+Tow Truck Company - 124,Damaged Goods - D01,Referred to Hearing - RTH,No,11378,Pass,1
+Secondhand Dealer Auto - 005,Damaged Goods - D01,Resolved and Consumer Satisfied - SPF,Yes,10469,Violation Issued,1
+Home Improvement Contractor - 100,Non-Delivery of Service - N02,Advised to Sue - ATS,No,10304,Violation Issued,1
+Electronic Store - 001,Breach of Contract - B03,No Satisfactory Agreement - NSA,No,11358,No Violation Issued,1
+Misc Non-Food Retail - 817,Advertising/General - A01,Cash Amount - AMT,Yes,07645,Unable to Locate,1
+Other,Non-Delivery of Goods - N01,Cash Amount - AMT,Yes,60015,Violation Issued,1
+Garage - 049,Damaged Goods - D01,Cash Amount - AMT,Yes,10128,Violation Issued,1
+Laundry - 064,Damaged Goods - D01,No Satisfactory Agreement - NSA,No,10009,No Violation Issued,1
+Dry Cleaners - 230,Damaged Goods - D01,No Satisfactory Agreement - NSA,No,11234,Violation Issued,1
+Electronic Store - 001,Exchange Goods/Contract Cancelled - E01,No Satisfactory Agreement - NSA,No,11204,No Violation Issued,1
+Electronic Store - 001,Exchange Goods/Contract Cancelled - E01,Referred to Hearing - RTH,No,11103,No Violation Issued,1
+Pawnbroker - 080,Lost Property - L02,No Satisfactory Agreement - NSA,No,11212,Violation Issued,1
+Garage - 049,Surcharge/Overcharge - S02,Bill Reduced - BLR,Yes,10065,Violation Issued,1
+Garage - 049,Surcharge/Overcharge - S02,Resolved and Consumer Satisfied - SPF,Yes,10018,No Violation Issued,1
+Garage - 049,Surcharge/Overcharge - S02,Cash Amount - AMT,Yes,10036,Violation Issued,1
+Furniture Sales - 242,Damaged Goods - D01,Resolved and Consumer Satisfied - SPF,Yes,10461,No Violation Issued,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Advised to Sue - ATS,No,10805,Violation Issued,1
+Garage - 049,Misrepresentation - M01,Bill Reduced - BLR,Yes,10023,Violation Issued,1
+Supermarket - 819,Surcharge/Overcharge - S02,Cash Amount - AMT,Yes,,No Evidence of Activity,1
+Grocery-Retail - 808,Surcharge/Overcharge - S02,Cash Amount - AMT,Yes,10011,Pass,1
+Garage - 049,Misrepresentation - M01,Bill Reduced - BLR,Yes,10016,No Violation Issued,1
+Misc Non-Food Retail - 817,Damaged Goods - D01,Goods Exchanged - GEX,Yes,10025,Out of Business,1
+Other,Exchange Goods/Contract Cancelled - E01,Unable to Locate Business - ULV,NA,10014,Out of Business,1
+Home Improvement Contractor - 100,Breach of Contract - B03,No Satisfactory Agreement - NSA,No,08527,No Violation Issued,1
+Supermarket - 819,Surcharge/Overcharge - S02,Store Credit - SCR,Yes,78703,Pass,1
+Electronic Store - 001,Non-Delivery of Service - N02,Store Credit - SCR,Yes,11210,No Violation Issued,1
+Secondhand Dealer Auto - 005,Breach of Contract - B03,Cash Amount - AMT,Yes,11203,Violation Issued,1
+Garage - 049,Outstanding Judgment - J01,Agency Collected Judgement - ACJ,Yes,10010,Violation Issued,1
+Electronic Store - 001,Exchange Goods/Contract Cancelled - E01,Advised to Sue - ATS,No,10304,Out of Business,1
+Electronic Store - 001,Non-Delivery of Goods - N01,Cash Amount - AMT,Yes,10468,Violation Issued,1
+Electronic Store - 001,Surcharge/Overcharge - S02,Advised to Sue - ATS,No,11216,No Violation Issued,1
+Electronic Store - 001,Exchange Goods/Contract Cancelled - E01,No Satisfactory Preempted - NSP,NA,11104,Out of Business,1
+Electronic Store - 001,Non-Delivery of Goods - N01,No Business Response - NVR,No,10033,No Violation Issued,1
+Electronic Store - 001,Misrepresentation - M01,Advised to Sue - ATS,No,10302,No Violation Issued,1
+Electronic Store - 001,Outstanding Judgment - J01,Cash Amount - AMT,Yes,10459,No Violation Issued,1
+Electronic Store - 001,Breach of Contract - B03,Advised to Sue - ATS,No,11372,Warning,1
+Electronic Store - 001,Non-Delivery of Service - N02,Complaint Invalid - CIN,NA,10016,Violation Issued,1
+Electronic Store - 001,Advertising/Misleading - A02,Advised to Sue - ATS,No,10458,No Violation Issued,1
+Electronic Store - 001,Breach of Contract - B03,Resolved and Consumer Satisfied - SPF,Yes,11218,No Violation Issued,1
+Electronic Store - 001,Refund Policy - R01,Cash Amount - AMT,Yes,11791,Violation Issued,1
+Electronic Store - 001,Advertising/Misleading - A02,Referred to Manufacturer - RMF,NA,10454,No Violation Issued,1
+Misc Non-Food Retail - 817,Surcharge/Overcharge - S02,No Business Response - NVR,No,11432,No Violation Issued,1
+Secondhand Dealer Auto - 005,Misrepresentation - M01,Out of Business - OOB,NA,11435,Out of Business,1
+Secondhand Dealer Auto - 005,Damaged Goods - D01,No Satisfactory Agreement - NSA,No,11203,Violation Issued,1
+Secondhand Dealer Auto - 005,,Advised to Sue - ATS,No,11377,Violation Issued,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Advised to Sue - ATS,No,11436,No Violation Issued,1
+Home Improvement Contractor - 100,Breach of Contract - B03,Advised to Sue - ATS,No,11357,Violation Issued,1
+Secondhand Dealer Auto - 005,Damaged Goods - D01,No Satisfactory Preempted - NSP,NA,11432,No Violation Issued,1
+Misc Non-Food Retail - 817,Exchange Goods/Contract Cancelled - E01,No Business Response - NVR,No,11206,Out of Business,1
+Furniture Sales - 242,Damaged Goods - D01,No Satisfactory Preempted - NSP,NA,10458,No Violation Issued,1
+Electronic Store - 001,Advertising/Misleading - A02,Resolved and Consumer Satisfied - SPF,Yes,11236,Out of Business,1
+Dry Cleaners - 230,Damaged Goods - D01,Advised to Sue - ATS,No,10022,No Violation Issued,1
+Laundry - 064,,Cash Amount - AMT,Yes,11205,No Violation Issued,1
+Restaurant - 818,Misrepresentation - M01,Resolved and Consumer Satisfied - SPF,Yes,11236,No Violation Issued,1
+Jewelry Store-Retail - 823,Breach of Warranty - B04,Resolved and Consumer Satisfied - SPF,Yes,75038,Out of Business,1
+Jewelry Store-Retail - 823,Misrepresentation - M01,Credit Card Refund and/or Contract Cancelled - CRC,Yes,75038,No Evidence of Activity,1
+Retail Store - 820,Refund Policy - R01,Store Credit - SCR,Yes,10022,ECB Warning Issued,1
+Retail Store - 820,Surcharge/Overcharge - S02,No Consumer Response - NCR,NA,10110,Pass,1
+Electronic Store - 001,Non-Delivery of Goods - N01,Out of Business - OOB,NA,11201,Out of Business,1
+Home Improvement Contractor - 100,Quality of Work - Q01,Advised to Sue - ATS,No,11355,Violation Issued,1
+Garage - 049,Damaged Goods - D01,Cash Amount - AMT,Yes,10019,No Violation Issued,1
+Furniture Sales - 242,Damaged Goods - D01,Cash Amount - AMT,Yes,11220,No Violation Issued,1
+Misc Non-Food Retail - 817,Non-Delivery of Goods - N01,No Business Response - NVR,No,11220,Violation Issued,1
