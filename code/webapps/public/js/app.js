@@ -1,0 +1,1 @@
+angular.module('sampleApp', ['ngRoute', 'appRoutes', 'MainCtrl', 'Tab1Ctrl', 'Tab1Service', 'Tab2Ctrl', 'Tab2Service']);

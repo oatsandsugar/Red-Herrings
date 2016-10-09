@@ -1,0 +1,75 @@
+body { padding-top:0px; }
+.navbar {
+    margin-bottom: 0;
+}
+.noPaddings{
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.normalDots 
+{
+        fill: lightgrey;
+        fill-opacity: 0.3;
+    }
+
+.CompliantDots 
+{
+        fill: #ff4c4c;
+        fill-opacity: 0.3;
+    }
+
+.InspectionDots 
+{
+        fill: #5b5be3;
+        fill-opacity: 0.8;
+    }
+
+.LegalDots 
+{
+        fill: #006400;
+        fill-opacity: 0.8;
+    }
+
+
+#map {
+        position: absolute;
+        height: 100%;
+        width: 100%;
+        background-color: #333;
+        
+    }
+.x.axis text{
+  font-size: 10px;
+}
+.tick.zero text{
+  font-size: 10px;
+}
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.dot {
+  stroke: #000;
+}
+
+.fontImportant{
+    fill: red;
+    font-weight: bold;
+    font-size: 120%;
+}
+
+.fontNormal{
+  fill: #333333;
+  font-weight: normal;
+  font-size: 100%;
+}
+
+.fontOverlap{
+  fill: blue;
+  font-weight: bold;
+  font-size: 120%;
+}
