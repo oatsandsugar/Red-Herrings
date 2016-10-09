@@ -1,4 +1,4 @@
-# Red-Herrings
+# Red Herrings
 Git repository for [&lt;/humantrafficking> hackathon](https://ehthackathon.splashthat.com/) presented by Cornell Tech and the New York County District Attorney's office.
 
 # Challenge question
