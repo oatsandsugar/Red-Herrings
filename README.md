@@ -1,5 +1,5 @@
 # Red-Herrings
-Git repository for [&lt;/humantrafficking> hackathon](https://ehthackathon.splashthat.com/)
+Git repository for [&lt;/humantrafficking> hackathon](https://ehthackathon.splashthat.com/) presented by Cornell Tech and the New York County District Attorney's office.
 
 # Challenge question
 
@@ -13,14 +13,13 @@ How might we use open data to discover red flags that identify labour trafficker
 
 # Team:
 
-Sindhu BABU | Cornell Tech
-Aline BESSA | NYU
-Gromit CHAN | NYU
-Tuan Anh HOANG-VU | NYU
-Kien PHAM | NYU
-Johanan OTTENSOOSER | Cornell Tech
+* Sindhu BABU | Cornell Tech
+* Aline BESSA | NYU
+* Gromit CHAN | NYU
+* Tuan Anh HOANG-VU | NYU
+* Kien PHAM | NYU
+* Johanan OTTENSOOSER | Cornell Tech
 
 With special thanks to:
-Yamuna KRISHNAMURTHY
-Aecio SANTOS   
+Yamuna KRISHNAMURTHY & Aecio SANTOS from NYU for their mentorship.   
 
